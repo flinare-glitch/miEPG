@@ -24,3 +24,4 @@ E!.Entertainment.Television.HD.us2,E! Entertainment,http://dshm.tmsimg.com/asset
 
 HBO2.HD.(Pacific).us2,HBO2 HD (Pacific),http://dshm.tmsimg.com/assets/s59368_h3_ba.png?w=360&amp;h=270
 HBO.Comedy.HD.us2,HBO Comedy HD,http://dshm.tmsimg.com/assets/s59839_h3_aa.png?w=360&amp;h=270
+Turner.Classic.Movies.HD.us2,Turner Classic Movies,http://dshm.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270
