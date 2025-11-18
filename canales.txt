@@ -9,6 +9,12 @@ Ziggo.Sport.2.nl,ZIGGO SPORT 2 Holanda,https://tvgidsassets.nl/v364/img/channels
 Ziggo.Sport.6.nl,ZIGGO SPORT 6 Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/419.png
 Ziggo.Sport.nl,Ziggo Sport,https://tvgidsassets.nl/v364/img/channels/120x120/99.png
 
+TSN.1.ca2,TSN1
+TSN.2.ca2,TSN2
+TSN.3.ca2,TSN3
+TSN.4.ca2,TSN4
+TSN.5.ca2,TSN5
+
 Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
 Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
 Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
