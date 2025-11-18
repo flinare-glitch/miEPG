@@ -1,5 +1,26 @@
 La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
 La 2,La 2 Super Full HD 8k
+ESPN.1.nl,ESPN HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/148.png
+ESPN.2.nl,ESPN 2 HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/468.png
+ESPN.3.nl,ESPN 3 HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/469.png
+ESPN.4.nl,ESPN 4 HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/470.png
+Ziggo.Sport.nl,ZIGGO SPORT Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/99.png
+Ziggo.Sport.2.nl,ZIGGO SPORT 2 Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/474.png
+Ziggo.Sport.6.nl,ZIGGO SPORT 6 Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/419.png
+Ziggo.Sport.nl,Ziggo Sport,https://tvgidsassets.nl/v364/img/channels/120x120/99.png
 Eleven Sports 1,Eleven Sports 1 Polonia,+2
 Eleven Sports 2,Eleven Sports 2 Polonia,+2
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
+
+FS1.Fox.Sports.1.HD.us2,FOX SPORTS 1 USA,http://dshm.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270
+FS2.Fox.Sports.2.HD.us2,FOX SPORTS 2 USA,http://dshm.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270
+ESPNU.HD.us2,ESPN U,http://dshm.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270
+ESPN.HD.us2,ESPN USA,http://dshm.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270
+ESPN2.HD.us2,ESPN 2 USA,http://dshm.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270
+ESPN.Deportes.HD.us2,ESPN Deportes,http://dshm.tmsimg.com/assets/s71914_ll_h15_aa.png?w=360&amp;h=270
+CBS.Sports.Network.HD.us2,CBS Sports Network,http://dshm.tmsimg.com/assets/s59250_ll_h15_ac.png?w=360&amp;h=270
+NBC.Sports.HD.1.us2,NBC Sports,http://dshm.tmsimg.com/sources/generic/generic_sources_h3.png
+NBA.TV.HD.us2,NBA TV,http://dshm.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270
+E!.Entertainment.Television.HD.us2,E! Entertainment,http://dshm.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270
+
+HBO2.HD.(Pacific).us2,HBO2 HD (Pacific),http://dshm.tmsimg.com/assets/s59368_h3_ba.png?w=360&amp;h=270
+HBO.Comedy.HD.us2,HBO Comedy HD,http://dshm.tmsimg.com/assets/s59839_h3_aa.png?w=360&amp;h=270
