@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 18/11/2025 08:47" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 18/11/2025 11:45" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -2535,109 +2535,6 @@
 · País: Reino Unido
 · Productora: BBC Studios.</desc>
   </programme>
-  <programme start="20251116010000 +0100" stop="20251116030000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga niemiecka - mecz: 1. FC Union Berlin - FC Bayern Monachium</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
-  </programme>
-  <programme start="20251116030000 +0100" stop="20251116050000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga włoska - mecz: Parma Calcio - AC Milan</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
-  </programme>
-  <programme start="20251116050000 +0100" stop="20251116055000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Z archiwum LaLiga</title>
-    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
-  </programme>
-  <programme start="20251116055000 +0100" stop="20251116064000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Z archiwum LaLiga</title>
-    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
-  </programme>
-  <programme start="20251116064000 +0100" stop="20251116070000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Unikalne tradycje LaLiga</title>
-    <desc lang="pl">Twórcy przedstawiają tradycje związane z ligą hiszpańską. Jedną z nich jest zwyczaj, według którego drużyny przyjezdne, przed meczem z Athletikiem w Bilbao, składały kwiaty pod popiersiem Pichichiego.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
-  </programme>
-  <programme start="20251116070000 +0100" stop="20251116073500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Andoni Zubizarreta</title>
-    <desc lang="pl">Był symbolem hiszpańskiej piłki przełomu lat 80. i 90. Andoni Zubizarreta miał na koncie najwięcej występów w reprezentacji kraju. Rysą na jego karierze był błąd na mundialu w 1998 roku.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-  </programme>
-  <programme start="20251116073500 +0100" stop="20251116080500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Undiano Mallenco</title>
-    <desc lang="pl">Dokument poświęcony arbitrowi Undianiemu Mallenco. W latach 2000-2019 sędziował mecze na szczeblu Primera Division. W swojej bogatej karierze prowadził także spotkania na szczeblu międzynarodowym.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619006.jpg" />
-  </programme>
-  <programme start="20251116080500 +0100" stop="20251116084500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Gaizka Mendieta</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20251116084500 +0100" stop="20251116090000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Power</title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
-  </programme>
-  <programme start="20251116090000 +0100" stop="20251116110000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga niemiecka - mecz: 1. FC Union Berlin - FC Bayern Monachium</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
-  </programme>
-  <programme start="20251116110000 +0100" stop="20251116130000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga hiszpańska - mecz: Rayo Vallecano - Real Madryt CF</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6088397.jpg" />
-  </programme>
-  <programme start="20251116130000 +0100" stop="20251116150000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga włoska - mecz: Juventus FC - Torino FC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050833.jpg" />
-  </programme>
-  <programme start="20251116150000 +0100" stop="20251116154500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Formuła 1: Grand Prix USA</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
-  </programme>
-  <programme start="20251116154500 +0100" stop="20251116163000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Formuła 1: Grand Prix Meksyku</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
-  </programme>
-  <programme start="20251116163000 +0100" stop="20251116170000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Formuła 1: Grand Prix Sao Paulo</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
-  </programme>
-  <programme start="20251116170000 +0100" stop="20251116190000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga włoska - mecz: Parma Calcio - AC Milan</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
-  </programme>
-  <programme start="20251116190000 +0100" stop="20251116210000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga hiszpańska - mecz: Atletico Madryt - UD Levante</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6364478.jpg" />
-  </programme>
-  <programme start="20251116210000 +0100" stop="20251116220000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Eleven Top Goals</title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
-  </programme>
-  <programme start="20251116220000 +0100" stop="20251117000000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Formuła 1: Grand Prix Sao Paulo</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
-  </programme>
-  <programme start="20251117000000 +0100" stop="20251117004500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">David Villa</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20251117004500 +0100" stop="20251117010000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Ousmane Dembélé - Pierwsze kroki</title>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
-  </programme>
   <programme start="20251117010000 +0100" stop="20251117030000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: Hamburger SV - Borussia Dortmund</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6468707.jpg" />
@@ -3224,109 +3121,101 @@
     <title lang="pl">Formuła 1: Grand Prix Las Vegas - 2. sesja treningowa</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251116010000 +0100" stop="20251116030000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga francuska - mecz: Olympique Lyon - Paris Saint-Germain</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
-  </programme>
-  <programme start="20251116030000 +0100" stop="20251116033500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Full Impact Serie A</title>
-    <desc lang="pl">Program poświęcony jednej z najlepszych piłkarskich lig na świecie - włoskiej Serie A.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6047186.jpg" />
-    <episode-num system="onscreen">E11</episode-num>
-  </programme>
-  <programme start="20251116033500 +0100" stop="20251116041500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Special</title>
-    <desc lang="pl">Program poświęcony najwyższej klasie rozgrywkowej w Niemczech. Widzowie znajdą w nim informacje z obozów drużyn walczących o mistrzostwo Bundesligi oraz mnóstwo ciekawostek dotyczących m.in. piłkarzy.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3999513.jpg" />
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20251116041500 +0100" stop="20251116044500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Fernando Morientes</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20251116044500 +0100" stop="20251116050000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Zaklinacz piłki - historia Andresa Iniesty</title>
-    <desc lang="pl">Biografia Andresa Iniesty - legendy FC Barcelony i reprezentacji Hiszpanii. Urodzony w 1984 roku pomocnik czterokrotnie wygrywał Ligę Mistrzów, będąc kluczowym piłkarzem Dumy Katalonii.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6304551.jpg" />
-  </programme>
-  <programme start="20251116050000 +0100" stop="20251116070000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga włoska - mecz: Bologna FC - SSC Napoli</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6210680.jpg" />
-  </programme>
-  <programme start="20251116070000 +0100" stop="20251116090000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga hiszpańska - mecz: Atletico Madryt - UD Levante</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6364478.jpg" />
-  </programme>
-  <programme start="20251116090000 +0100" stop="20251116110000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Formuła 1: Grand Prix Sao Paulo</title>
+  <programme start="20251122021000 +0100" stop="20251122022500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Las Vegas - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251116110000 +0100" stop="20251116130000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga francuska - mecz: Olympique Lyon - Paris Saint-Germain</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
+  <programme start="20251122022500 +0100" stop="20251122034000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Las Vegas - 3. sesja treningowa</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251116130000 +0100" stop="20251116150000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga niemiecka - mecz: VfB Stuttgart - FC Augsburg</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6083586.jpg" />
+  <programme start="20251122034000 +0100" stop="20251122041000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Las Vegas - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251116150000 +0100" stop="20251116170000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga włoska - mecz: Inter Mediolan - SS Lazio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050831.jpg" />
+  <programme start="20251122041000 +0100" stop="20251122050000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">F1 Academy: Grand Prix Las Vegas</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
   </programme>
-  <programme start="20251116170000 +0100" stop="20251116190000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga niemiecka - mecz: 1. FC Union Berlin - FC Bayern Monachium</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6087950.jpg" />
-  </programme>
-  <programme start="20251116190000 +0100" stop="20251116191500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251122050000 +0100" stop="20251122053000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">F2: Chasing the Dream</title>
     <category lang="pl">magazyn motoryzacyjny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984445.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984498.jpg" />
   </programme>
-  <programme start="20251116191500 +0100" stop="20251116194500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Podróż do świata Calcio</title>
-    <sub-title lang="pl">Oczami sędziego</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
+  <programme start="20251122053000 +0100" stop="20251122055500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Las Vegas - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251116194500 +0100" stop="20251116200000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Ousmane Dembélé - Pierwsze kroki</title>
+  <programme start="20251122055500 +0100" stop="20251122071500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Las Vegas - sesja kwalifikacyjna</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
+  </programme>
+  <programme start="20251122071500 +0100" stop="20251122080000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Las Vegas - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
+  </programme>
+  <programme start="20251122080000 +0100" stop="20251122090000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Pierwszy tytuł Kloppa</title>
+    <desc lang="pl">Jürgen Klopp poprowadził Borussię Dortmund do mistrzostwa Bundesligi w sezonie 2010/2011. O sile zespołu stanowiło wówczas trzech Polaków: Robert Lewandowski, Jakub Błaszczykowski i Łukasz Piszczek.</desc>
     <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
   </programme>
-  <programme start="20251116200000 +0100" stop="20251116220000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga włoska - mecz: Bologna FC - SSC Napoli</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6210680.jpg" />
+  <programme start="20251122090000 +0100" stop="20251122110000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga niemiecka - mecz: 1. FSV Mainz 05 - TSG 1899 Hoffenheim</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20251116220000 +0100" stop="20251117000000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga hiszpańska - mecz: Rayo Vallecano - Real Madryt CF</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6088397.jpg" />
+  <programme start="20251122110000 +0100" stop="20251122130000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga hiszpańska - mecz: Valencia CF - UD Levante</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6074445.jpg" />
   </programme>
-  <programme start="20251117000000 +0100" stop="20251117002500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Historyczne momenty Ligue 1</title>
-    <sub-title lang="pl">Lille OSC 2020/21</sub-title>
-    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
-    <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
+  <programme start="20251122130000 +0100" stop="20251122133500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Inside Serie A</title>
+    <desc lang="pl">Program dla fanów włoskiej ekstraklasy piłkarskiej, którzy znajdą w nim m.in. relacje zza kulis meczów, wywiady z gwiazdami Serie A, ciekawostki zarówno z minionych sezonów, jak i trwającej kampanii.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251117002500 +0100" stop="20251117004500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Historyczne momenty Ligue 1</title>
-    <sub-title lang="pl">Marsylia kontra Bordeaux</sub-title>
-    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
-    <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
+  <programme start="20251122133500 +0100" stop="20251122150000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Las Vegas - 3. sesja treningowa</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
   </programme>
-  <programme start="20251117004500 +0100" stop="20251117010000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Historyczne momenty Ligue 1</title>
-    <sub-title lang="pl">Lyon kontra Saint-Etienne</sub-title>
-    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
-    <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
+  <programme start="20251122150000 +0100" stop="20251122163000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Las Vegas - sesja kwalifikacyjna</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
+  </programme>
+  <programme start="20251122163000 +0100" stop="20251122171000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga hiszpańska - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
+  </programme>
+  <programme start="20251122171000 +0100" stop="20251122191000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - Athletic Club</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050779.jpg" />
+  </programme>
+  <programme start="20251122191000 +0100" stop="20251122192500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga niemiecka - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20251122192500 +0100" stop="20251122212500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga niemiecka - mecz: 1. FC Köln - Eintracht Frankfurt</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6428449.jpg" />
+  </programme>
+  <programme start="20251122212500 +0100" stop="20251122214000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga włoska - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20251122214000 +0100" stop="20251122234000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga włoska - mecz: SSC Napoli - Atalanta BC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6153384.jpg" />
+  </programme>
+  <programme start="20251122234000 +0100" stop="20251123000000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga włoska - studio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20251123000000 +0100" stop="20251123012500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Eleven Gol Live</title>
+    <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
   </programme>
   <programme start="20251117010000 +0100" stop="20251117030000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: AS Monaco - RC Lens</title>
@@ -3510,19 +3399,19 @@
     <title lang="pl">Liga hiszpańska - mecz: Atletico Madryt - UD Levante</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6364478.jpg" />
   </programme>
-  <programme start="20251119000000 +0100" stop="20251119003500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251119000000 +0100" stop="20251119004000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251119003500 +0100" stop="20251119010000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251119004000 +0100" stop="20251119010000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Olympique Marsylia 2009/10</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
   </programme>
   <programme start="20251119010000 +0100" stop="20251119030000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: Olympique Lyon - Paris Saint-Germain</title>
@@ -3533,18 +3422,18 @@
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20251119040000 +0100" stop="20251119044000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251119040000 +0100" stop="20251119044500 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Undiano Mallenco</title>
     <desc lang="pl">Dokument poświęcony arbitrowi Undianiemu Mallenco. W latach 2000-2019 sędziował mecze na szczeblu Primera Division. W swojej bogatej karierze prowadził także spotkania na szczeblu międzynarodowym.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619006.jpg" />
   </programme>
-  <programme start="20251119044000 +0100" stop="20251119050000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251119044500 +0100" stop="20251119050000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Marsylia kontra Bordeaux</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
   </programme>
   <programme start="20251119050000 +0100" stop="20251119070000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga włoska - mecz: Juventus FC - Torino FC</title>
@@ -3709,19 +3598,19 @@
     <title lang="pl">Liga hiszpańska - mecz: Atletico Madryt - UD Levante</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6364478.jpg" />
   </programme>
-  <programme start="20251121000000 +0100" stop="20251121003500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251121000000 +0100" stop="20251121004000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20251121003500 +0100" stop="20251121010000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20251121004000 +0100" stop="20251121010000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Historyczne momenty Ligue 1</title>
     <sub-title lang="pl">Girondins de Bordeaux 2008/09</sub-title>
     <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
     <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
   </programme>
   <programme start="20251121010000 +0100" stop="20251121030000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: Olympique Lyon - Paris Saint-Germain</title>
@@ -3852,5 +3741,125 @@
     <desc lang="pl">Twórcy programu prezentują biografię Lionela Messiego. Przez lata gry dla FC Barcelony Argentyńczyk zapracował sobie na miano najlepszego piłkarza globu. Sześciokrotnie sięgał po Złotą Piłkę.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3575173.jpg" />
+  </programme>
+  <programme start="20251122010000 +0100" stop="20251122030000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga francuska - mecz: OGC Nice - Olympique Marsylia</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  </programme>
+  <programme start="20251122030000 +0100" stop="20251122034000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">LaLiga Best 11</title>
+    <sub-title lang="pl">Gica Craioveanu</sub-title>
+    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
+  </programme>
+  <programme start="20251122034000 +0100" stop="20251122041500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">LaLiga Power</title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
+  </programme>
+  <programme start="20251122041500 +0100" stop="20251122050000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Najlepsi bramkarze Bundesligi lat 90</title>
+    <desc lang="pl">Biografie najlepszych bramkarzy lat 90., którzy zapisali się w historii niemieckiej ekstraklasy. Widzowie poznają życiorysy Olivera Kahna, Gabora Kiraly'a, Jensa Lehmanna czy Dirka Heynena.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20251122050000 +0100" stop="20251122070000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga włoska - mecz: Bologna FC - SSC Napoli</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6210680.jpg" />
+  </programme>
+  <programme start="20251122070000 +0100" stop="20251122090000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga hiszpańska - mecz: Valencia CF - UD Levante</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6074445.jpg" />
+  </programme>
+  <programme start="20251122090000 +0100" stop="20251122093000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Podróż do świata Calcio</title>
+    <sub-title lang="pl">San Siro</sub-title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
+  </programme>
+  <programme start="20251122093000 +0100" stop="20251122100000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Weekly</title>
+    <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6112455.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20251122100000 +0100" stop="20251122103000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Ligue 1 Preview</title>
+    <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20251122103000 +0100" stop="20251122110000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Inside Serie A</title>
+    <desc lang="pl">Program dla fanów włoskiej ekstraklasy piłkarskiej, którzy znajdą w nim m.in. relacje zza kulis meczów, wywiady z gwiazdami Serie A, ciekawostki zarówno z minionych sezonów, jak i trwającej kampanii.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20251122110000 +0100" stop="20251122130000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga francuska - mecz: OGC Nice - Olympique Marsylia</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  </programme>
+  <programme start="20251122130000 +0100" stop="20251122135500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Potrójna korona Bayernu Monachium</title>
+    <desc lang="pl">Twórcy dokumentu przypominają historyczny sezon Bayernu Monachium, w którym bawarski zespół wygrał Bundesligę, Puchar Niemiec oraz prestiżową Ligę Mistrzów.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
+  </programme>
+  <programme start="20251122135500 +0100" stop="20251122160500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">2. liga niemiecka - mecz: Preußen Münster - FC Schalke 04</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
+  </programme>
+  <programme start="20251122160500 +0100" stop="20251122162000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Clubs</title>
+    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20251122162000 +0100" stop="20251122183500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga niemiecka - mecz: FC Bayern Monachium - SC Freiburg</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6471802.jpg" />
+  </programme>
+  <programme start="20251122183500 +0100" stop="20251122185500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Tajemnice szatni - Dante</title>
+    <desc lang="pl">Brazylijczyk Dante w swojej karierze grał w składzie m.in. Borussii Mönchengladbach, Bayernu Monachium czy OGC Nice. Sportowiec podzieli się z kibicami anegdotkami zza kulis futbolowego teatru.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984494.jpg" />
+  </programme>
+  <programme start="20251122185500 +0100" stop="20251122210500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga włoska - mecz: ACF Fiorentina - Juventus FC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050833.jpg" />
+  </programme>
+  <programme start="20251122210500 +0100" stop="20251122213500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Podróż do świata Calcio</title>
+    <sub-title lang="pl">Oczami sędziego</sub-title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20251122213500 +0100" stop="20251122220000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Ousmane Dembélé - Pierwsze kroki</title>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
+  </programme>
+  <programme start="20251122220000 +0100" stop="20251123001500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga francuska - mecz: Paris Saint-Germain - Le Havre AC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6093169.jpg" />
+  </programme>
+  <programme start="20251123001500 +0100" stop="20251123004000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Historyczne momenty Ligue 1</title>
+    <sub-title lang="pl">Paris Saint-Germain 2012/13</sub-title>
+    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
+    <category lang="pl">cykl reportaży</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
+  </programme>
+  <programme start="20251123004000 +0100" stop="20251123010000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Historyczne momenty Ligue 1</title>
+    <sub-title lang="pl">Marsylia kontra Bordeaux</sub-title>
+    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
+    <category lang="pl">cykl reportaży</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
   </programme>
 </tv>
