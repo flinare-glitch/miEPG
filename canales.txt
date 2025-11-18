@@ -6,7 +6,6 @@ ESPN.4.nl,ESPN 4 HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/470.p
 Ziggo.Sport.nl,ZIGGO SPORT Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/99.png
 Ziggo.Sport.2.nl,ZIGGO SPORT 2 Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/474.png
 Ziggo.Sport.6.nl,ZIGGO SPORT 6 Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/419.png
-Ziggo.Sport.nl,Ziggo Sport,https://tvgidsassets.nl/v364/img/channels/120x120/99.png
 
 TSN.1.ca2,TSN1
 TSN.2.ca2,TSN2
