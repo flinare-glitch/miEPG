@@ -8,8 +8,21 @@ Ziggo.Sport.nl,ZIGGO SPORT Holanda,https://tvgidsassets.nl/v364/img/channels/120
 Ziggo.Sport.2.nl,ZIGGO SPORT 2 Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/474.png
 Ziggo.Sport.6.nl,ZIGGO SPORT 6 Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/419.png
 Ziggo.Sport.nl,Ziggo Sport,https://tvgidsassets.nl/v364/img/channels/120x120/99.png
-Eleven Sports 1,Eleven Sports 1 Polonia,+2
-Eleven Sports 2,Eleven Sports 2 Polonia,+2
+
+Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
+Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
+Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
+Eleven.Sports.4.HD.pl,Eleven Sports 4 Polonia
+CANAL+.Sport.HD.pl,Canal+ Sport Polonia
+CANAL+.Sport.2.HD.pl,Canal+ Sport 2 Polonia
+CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia
+CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia
+CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia
+Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1
+Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2
+Polsat.Sport.pl,Polsat Sport
+Polsat.Sport.Extra.HD.pl,Polsat Sport Extra
+Sportklub.HD.pl,Sport Klub Polonia
 
 FS1.Fox.Sports.1.HD.us2,FOX SPORTS 1 USA,http://dshm.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270
 FS2.Fox.Sports.2.HD.us2,FOX SPORTS 2 USA,http://dshm.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270
@@ -19,9 +32,14 @@ ESPN2.HD.us2,ESPN 2 USA,http://dshm.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360
 ESPN.Deportes.HD.us2,ESPN Deportes,http://dshm.tmsimg.com/assets/s71914_ll_h15_aa.png?w=360&amp;h=270
 CBS.Sports.Network.HD.us2,CBS Sports Network,http://dshm.tmsimg.com/assets/s59250_ll_h15_ac.png?w=360&amp;h=270
 NBC.Sports.HD.1.us2,NBC Sports,http://dshm.tmsimg.com/sources/generic/generic_sources_h3.png
+CNN.International.us2,CNN Internacional,http://dshm.tmsimg.com/assets/s10146_ll_h15_ac.png?w=360&amp;h=270
 NBA.TV.HD.us2,NBA TV,http://dshm.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270
 E!.Entertainment.Television.HD.us2,E! Entertainment,http://dshm.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270
-
+HBO.East.us2,HBO USA,http://dshm.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270
 HBO2.HD.(Pacific).us2,HBO2 HD (Pacific),http://dshm.tmsimg.com/assets/s59368_h3_ba.png?w=360&amp;h=270
 HBO.Comedy.HD.us2,HBO Comedy HD,http://dshm.tmsimg.com/assets/s59839_h3_aa.png?w=360&amp;h=270
 Turner.Classic.Movies.HD.us2,Turner Classic Movies,http://dshm.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270
+Cheddar.us2,Cheddar USA,http://dshm.tmsimg.com/assets/s109333_ll_h15_ae.png?w=360&amp;h=270
+POP.HD.us2,Popstar! TV,http://dshm.tmsimg.com/assets/s68796_ll_h15_aa.png?w=360&amp;h=270
+
+
