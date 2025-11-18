@@ -15,21 +15,6 @@ TSN.3.ca2,TSN3
 TSN.4.ca2,TSN4
 TSN.5.ca2,TSN5
 
-Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
-Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
-Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
-Eleven.Sports.4.HD.pl,Eleven Sports 4 Polonia
-CANAL+.Sport.HD.pl,Canal+ Sport Polonia
-CANAL+.Sport.2.HD.pl,Canal+ Sport 2 Polonia
-CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia
-CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia
-CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia
-Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1
-Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2
-Polsat.Sport.pl,Polsat Sport
-Polsat.Sport.Extra.HD.pl,Polsat Sport Extra
-Sportklub.HD.pl,Sport Klub Polonia
-
 FS1.Fox.Sports.1.HD.us2,FOX SPORTS 1 USA,http://dshm.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270
 FS2.Fox.Sports.2.HD.us2,FOX SPORTS 2 USA,http://dshm.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270
 ESPNU.HD.us2,ESPN U,http://dshm.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270
@@ -47,5 +32,20 @@ HBO.Comedy.HD.us2,HBO Comedy HD,http://dshm.tmsimg.com/assets/s59839_h3_aa.png?w
 Turner.Classic.Movies.HD.us2,Turner Classic Movies,http://dshm.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270
 Cheddar.us2,Cheddar USA,http://dshm.tmsimg.com/assets/s109333_ll_h15_ae.png?w=360&amp;h=270
 POP.HD.us2,Popstar! TV,http://dshm.tmsimg.com/assets/s68796_ll_h15_aa.png?w=360&amp;h=270
+
+Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
+Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
+Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
+Eleven.Sports.4.HD.pl,Eleven Sports 4 Polonia
+CANAL+.Sport.HD.pl,Canal+ Sport Polonia
+CANAL+.Sport.2.HD.pl,Canal+ Sport 2 Polonia
+CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia
+CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia
+CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia
+Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1
+Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2
+Polsat.Sport.pl,Polsat Sport
+Polsat.Sport.Extra.HD.pl,Polsat Sport Extra
+Sportklub.HD.pl,Sport Klub Polonia
 
 
