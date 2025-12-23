@@ -5,11 +5,6 @@ ESPN.4.nl,ESPN 4 HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/470.p
 Ziggo.Sport.nl,ZIGGO SPORT Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/99.png
 Ziggo.Sport.2.nl,ZIGGO SPORT 2 Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/474.png
 Ziggo.Sport.6.nl,ZIGGO SPORT 6 Holanda,https://tvgidsassets.nl/v364/img/channels/120x120/419.png
-TSN.1.ca2,TSN1
-TSN.2.ca2,TSN2
-TSN.3.ca2,TSN3
-TSN.4.ca2,TSN4
-TSN.5.ca2,TSN5
 FS1.Fox.Sports.1.HD.us2,FOX SPORTS 1 USA,http://dshm.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270
 FS2.Fox.Sports.2.HD.us2,FOX SPORTS 2 USA,http://dshm.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270
 ESPNU.HD.us2,ESPN U,http://dshm.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270
@@ -21,9 +16,6 @@ NBC.Sports.HD.1.us2,NBC Sports,http://dshm.tmsimg.com/sources/generic/generic_so
 CNN.International.us2,CNN Internacional,http://dshm.tmsimg.com/assets/s10146_ll_h15_ac.png?w=360&amp;h=270
 NBA.TV.HD.us2,NBA TV,http://dshm.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270
 E!.Entertainment.Television.HD.us2,E! Entertainment,http://dshm.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270
-HBO.East.us2,HBO USA,http://dshm.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270
-HBO.2.-.Eastern.Feed.us,HBO 2 USA,http://dshm.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270
-HBO.Comedy.HD.us2,HBO Comedy HD,http://dshm.tmsimg.com/assets/s59839_h3_aa.png?w=360&amp;h=270
 Turner.Classic.Movies.HD.us2,Turner Classic Movies,http://dshm.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270
 Cheddar.us2,Cheddar USA,http://dshm.tmsimg.com/assets/s109333_ll_h15_ae.png?w=360&amp;h=270
 POP.HD.us2,Popstar! TV,http://dshm.tmsimg.com/assets/s68796_ll_h15_aa.png?w=360&amp;h=270
