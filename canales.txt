@@ -10,13 +10,14 @@ FS2.Fox.Sports.2.HD.us2,FOX SPORTS 2 USA,http://dshm.tmsimg.com/assets/s59305_ll
 ESPNU.HD.us2,ESPN U,http://dshm.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270
 ESPN.HD.us2,ESPN USA,http://dshm.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270
 ESPN2.HD.us2,ESPN 2 USA,http://dshm.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270
-ESPN.Deportes.HD.us2,ESPN Deportes,http://dshm.tmsimg.com/assets/s71914_ll_h15_aa.png?w=360&amp;h=270
 CBS.Sports.Network.HD.us2,CBS Sports Network,http://dshm.tmsimg.com/assets/s59250_ll_h15_ac.png?w=360&amp;h=270
 NBC.Sports.HD.1.us2,NBC Sports,http://dshm.tmsimg.com/sources/generic/generic_sources_h3.png
 CNN.International.us2,CNN Internacional,http://dshm.tmsimg.com/assets/s10146_ll_h15_ac.png?w=360&amp;h=270
 NBA.TV.HD.us2,NBA TV,http://dshm.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270
 Cheddar.us2,Cheddar USA,http://dshm.tmsimg.com/assets/s109333_ll_h15_ae.png?w=360&amp;h=270
 POP.HD.us2,Popstar! TV,http://dshm.tmsimg.com/assets/s68796_ll_h15_aa.png?w=360&amp;h=270
+CA36000019W,The NBA Channel
+CA1400003R3,TSN The Ocho
 Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
 Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
 Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
