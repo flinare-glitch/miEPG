@@ -31,4 +31,4 @@ Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1
 Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2
 Polsat.Sport.pl,Polsat Sport
 Polsat.Sport.Extra.HD.pl,Polsat Sport Extra
-Sportklub.HD.pl,Sport Klub Polonia
+Sportklub.HD.pl,Sport Klub Polonia,https://r2.thesportsdb.com/images/media/channel/logo/f4pxsa1643136996.png
