@@ -1,119 +1,119 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz
 192TV.nl,192TV,https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/98.svg
-24Kitchen.nl,24Kitchen,https://tvgidsassets.nl/v366/img/channels/120x120/435.png
-3Sat.nl,3Sat,https://tvgidsassets.nl/v366/img/channels/120x120/50.png
-ARD.nl,ARD,https://tvgidsassets.nl/v366/img/channels/120x120/9.png
-ARTE.nl,ARTE,https://tvgidsassets.nl/v366/img/channels/120x120/38.png
-AT5.nl,AT5,https://tvgidsassets.nl/v366/img/channels/120x120/40.png
-Al.Jazeera.Engels.nl,Al Jazeera Engels,https://tvgidsassets.nl/v366/img/channels/120x120/423.png
-Animal.Planet.nl,Animal Planet,https://tvgidsassets.nl/v366/img/channels/120x120/439.png
-BBC.1.nl,BBC 1,https://tvgidsassets.nl/v366/img/channels/120x120/7.png
-BBC.2.nl,BBC 2,https://tvgidsassets.nl/v366/img/channels/120x120/8.png
-BBC.4.nl,BBC 4,https://tvgidsassets.nl/v366/img/channels/120x120/301.png
-BBC.NL.nl,BBC NL,https://tvgidsassets.nl/v366/img/channels/120x120/464.png
+24Kitchen.nl,24Kitchen,https://tvgidsassets.nl/v368/img/channels/120x120/435.png
+3Sat.nl,3Sat,https://tvgidsassets.nl/v368/img/channels/120x120/50.png
+ARD.nl,ARD,https://tvgidsassets.nl/v368/img/channels/120x120/9.png
+ARTE.nl,ARTE,https://tvgidsassets.nl/v368/img/channels/120x120/38.png
+AT5.nl,AT5,https://tvgidsassets.nl/v368/img/channels/120x120/40.png
+Al.Jazeera.Engels.nl,Al Jazeera Engels,https://tvgidsassets.nl/v368/img/channels/120x120/423.png
+Animal.Planet.nl,Animal Planet,https://tvgidsassets.nl/v368/img/channels/120x120/439.png
+BBC.1.nl,BBC 1,https://tvgidsassets.nl/v368/img/channels/120x120/7.png
+BBC.2.nl,BBC 2,https://tvgidsassets.nl/v368/img/channels/120x120/8.png
+BBC.4.nl,BBC 4,https://tvgidsassets.nl/v368/img/channels/120x120/301.png
+BBC.NL.nl,BBC NL,https://tvgidsassets.nl/v368/img/channels/120x120/464.png
 BBC.World.nl,BBC World,
-BVN.nl,BVN,https://tvgidsassets.nl/v366/img/channels/120x120/90.png
+BVN.nl,BVN,https://tvgidsassets.nl/v368/img/channels/120x120/90.png
 Beleef.KPN.nl,Beleef KPN,
-CBS.Reality.nl,CBS Reality,https://tvgidsassets.nl/v366/img/channels/120x120/315.png
-CNBC.nl,CNBC,https://tvgidsassets.nl/v366/img/channels/120x120/487.png
-CNN.nl,CNN,https://tvgidsassets.nl/v366/img/channels/120x120/26.png
-Canal+.Action.nl,Canal+ Action,https://tvgidsassets.nl/v366/img/channels/120x120/498.png
-Cartoon.Network.nl,Cartoon Network,https://tvgidsassets.nl/v366/img/channels/120x120/21.png
-Cartoonito.nl,Cartoonito,https://tvgidsassets.nl/v366/img/channels/120x120/313.png
-Comedy.Central.nl,Comedy Central,https://tvgidsassets.nl/v366/img/channels/120x120/91.png
-Crime.+.Investigation.nl,Crime + Investigation,https://tvgidsassets.nl/v366/img/channels/120x120/472.png
-Discovery.Science.nl,Discovery Science,https://tvgidsassets.nl/v366/img/channels/120x120/306.png
-Discovery.nl,Discovery,https://tvgidsassets.nl/v366/img/channels/120x120/29.png
-Disney.Channel.nl,Disney Channel,https://tvgidsassets.nl/v366/img/channels/120x120/424.png
+CBS.Reality.nl,CBS Reality,https://tvgidsassets.nl/v368/img/channels/120x120/315.png
+CNBC.nl,CNBC,https://tvgidsassets.nl/v368/img/channels/120x120/487.png
+CNN.nl,CNN,https://tvgidsassets.nl/v368/img/channels/120x120/26.png
+Canal+.Action.nl,Canal+ Action,https://tvgidsassets.nl/v368/img/channels/120x120/498.png
+Cartoon.Network.nl,Cartoon Network,https://tvgidsassets.nl/v368/img/channels/120x120/21.png
+Cartoonito.nl,Cartoonito,https://tvgidsassets.nl/v368/img/channels/120x120/313.png
+Comedy.Central.nl,Comedy Central,https://tvgidsassets.nl/v368/img/channels/120x120/91.png
+Crime.+.Investigation.nl,Crime + Investigation,https://tvgidsassets.nl/v368/img/channels/120x120/472.png
+Discovery.Science.nl,Discovery Science,https://tvgidsassets.nl/v368/img/channels/120x120/306.png
+Discovery.nl,Discovery,https://tvgidsassets.nl/v368/img/channels/120x120/29.png
+Disney.Channel.nl,Disney Channel,https://tvgidsassets.nl/v368/img/channels/120x120/424.png
 Disney.XD.nl,Disney XD,
-E!.Entertainment.nl,E! Entertainment,https://tvgidsassets.nl/v366/img/channels/120x120/483.png
-ESPN.1.nl,ESPN 1,https://tvgidsassets.nl/v366/img/channels/120x120/148.png
-ESPN.2.nl,ESPN 2,https://tvgidsassets.nl/v366/img/channels/120x120/468.png
-ESPN.3.nl,ESPN 3,https://tvgidsassets.nl/v366/img/channels/120x120/469.png
-ESPN.4.nl,ESPN 4,https://tvgidsassets.nl/v366/img/channels/120x120/470.png
-Euronews.nl,Euronews,https://tvgidsassets.nl/v366/img/channels/120x120/422.png
-Eurosport.1.nl,Eurosport 1,https://tvgidsassets.nl/v366/img/channels/120x120/19.png
-Eurosport.2.nl,Eurosport 2,https://tvgidsassets.nl/v366/img/channels/120x120/436.png
-Extreme.Sports.Channel.nl,Extreme Sports Channel,https://tvgidsassets.nl/v366/img/channels/120x120/417.png
-Film.1.Premiere.nl,Film 1 Premiere,https://tvgidsassets.nl/v366/img/channels/120x120/24.png
-Film1.Action.nl,Film1 Action,https://tvgidsassets.nl/v366/img/channels/120x120/411.png
-Film1.Drama.nl,Film1 Drama,https://tvgidsassets.nl/v366/img/channels/120x120/430.png
-Film1.Family.nl,Film1 Family,https://tvgidsassets.nl/v366/img/channels/120x120/39.png
-Filmbox.nl.nl,Filmbox.nl,https://tvgidsassets.nl/v366/img/channels/120x120/495.png
-HGTV.nl,HGTV,https://tvgidsassets.nl/v366/img/channels/120x120/497.png
-HISTORY.nl,HISTORY,https://tvgidsassets.nl/v366/img/channels/120x120/413.png
-INPLUS.nl,INPLUS,https://tvgidsassets.nl/v366/img/channels/120x120/475.png
-Investigation.Discovery.nl,Investigation Discovery,https://tvgidsassets.nl/v366/img/channels/120x120/414.png
-L1.TV.nl,L1 TV,https://tvgidsassets.nl/v366/img/channels/120x120/115.png
-Love.Nature.nl,Love Nature,https://tvgidsassets.nl/v366/img/channels/120x120/486.png
-MTV.nl,MTV,https://tvgidsassets.nl/v366/img/channels/120x120/25.png
-Mezzo.nl,Mezzo,https://tvgidsassets.nl/v366/img/channels/120x120/73.png
-NDR.Fernsehen.nl,NDR Fernsehen,https://tvgidsassets.nl/v366/img/channels/120x120/13.png
-NET.5.nl,NET 5,https://tvgidsassets.nl/v366/img/channels/120x120/37.png
-NH.nl,NH,https://tvgidsassets.nl/v366/img/channels/120x120/103.png
-NPO.1.extra.nl,NPO 1 extra,https://tvgidsassets.nl/v366/img/channels/120x120/410.png
-NPO.1.nl,NPO 1,https://tvgidsassets.nl/v366/img/channels/120x120/1.png
-NPO.2.extra.nl,NPO 2 extra,https://tvgidsassets.nl/v366/img/channels/120x120/70.png
-NPO.2.nl,NPO 2,https://tvgidsassets.nl/v366/img/channels/120x120/2.png
-NPO.3.nl,NPO 3,https://tvgidsassets.nl/v366/img/channels/120x120/3.png
-NPO.Politiek.nl,NPO Politiek,https://tvgidsassets.nl/v366/img/channels/120x120/494.png
-Nat.Geo.Wild.nl,Nat Geo Wild,https://tvgidsassets.nl/v366/img/channels/120x120/416.png
-National.Geographic.nl,National Geographic,https://tvgidsassets.nl/v366/img/channels/120x120/18.png
-Nick.Jr..nl,Nick Jr.,https://tvgidsassets.nl/v366/img/channels/120x120/312.png
-Nickelodeon.nl,Nickelodeon,https://tvgidsassets.nl/v366/img/channels/120x120/89.png
-ONS.nl,ONS,https://tvgidsassets.nl/v366/img/channels/120x120/406.png
-OUTtv.nl,OUTtv,https://tvgidsassets.nl/v366/img/channels/120x120/407.png
-Omroep.Brabant.nl,Omroep Brabant,https://tvgidsassets.nl/v366/img/channels/120x120/114.png
-Omroep.Flevoland.nl,Omroep Flevoland,https://tvgidsassets.nl/v366/img/channels/120x120/113.png
-Omroep.Gelderland.nl,Omroep Gelderland,https://tvgidsassets.nl/v366/img/channels/120x120/112.png
-Omroep.Zeeland.nl,Omroep Zeeland,https://tvgidsassets.nl/v366/img/channels/120x120/116.png
-Omrop.Fryslân.nl,Omrop Fryslân,https://tvgidsassets.nl/v366/img/channels/120x120/109.png
-Oranje.TV.nl,Oranje TV,https://tvgidsassets.nl/v366/img/channels/120x120/429.png
-PRO.7.nl,PRO 7,https://tvgidsassets.nl/v366/img/channels/120x120/58.png
-Paramount.Network.nl,Paramount Network,https://tvgidsassets.nl/v366/img/channels/120x120/496.png
-Pebble.TV.nl,Pebble TV,https://tvgidsassets.nl/v366/img/channels/120x120/461.png
-Play4.nl,Play4,https://tvgidsassets.nl/v366/img/channels/120x120/60.png
-RTBF.La.1.nl,RTBF La 1,https://tvgidsassets.nl/v366/img/channels/120x120/15.png
-RTBF.La.2.nl,RTBF La 2,https://tvgidsassets.nl/v366/img/channels/120x120/16.png
-RTL.4.nl,RTL 4,https://tvgidsassets.nl/v366/img/channels/120x120/11.png
-RTL.5.nl,RTL 5,https://tvgidsassets.nl/v366/img/channels/120x120/31.png
-RTL.7.nl,RTL 7,https://tvgidsassets.nl/v366/img/channels/120x120/46.png
-RTL.8.nl,RTL 8,https://tvgidsassets.nl/v366/img/channels/120x120/92.png
-RTL.Crime.nl,RTL Crime,https://tvgidsassets.nl/v366/img/channels/120x120/409.png
-RTL.Lounge.nl,RTL Lounge,https://tvgidsassets.nl/v366/img/channels/120x120/408.png
-RTL.Telekids.nl,RTL Telekids,https://tvgidsassets.nl/v366/img/channels/120x120/485.png
-RTL.Z.nl,RTL Z,https://tvgidsassets.nl/v366/img/channels/120x120/465.png
+E!.Entertainment.nl,E! Entertainment,https://tvgidsassets.nl/v368/img/channels/120x120/483.png
+ESPN.1.nl,ESPN 1,https://tvgidsassets.nl/v368/img/channels/120x120/148.png
+ESPN.2.nl,ESPN 2,https://tvgidsassets.nl/v368/img/channels/120x120/468.png
+ESPN.3.nl,ESPN 3,https://tvgidsassets.nl/v368/img/channels/120x120/469.png
+ESPN.4.nl,ESPN 4,https://tvgidsassets.nl/v368/img/channels/120x120/470.png
+Euronews.nl,Euronews,https://tvgidsassets.nl/v368/img/channels/120x120/422.png
+Eurosport.1.nl,Eurosport 1,https://tvgidsassets.nl/v368/img/channels/120x120/19.png
+Eurosport.2.nl,Eurosport 2,https://tvgidsassets.nl/v368/img/channels/120x120/436.png
+Extreme.Sports.Channel.nl,Extreme Sports Channel,https://tvgidsassets.nl/v368/img/channels/120x120/417.png
+Film.1.Premiere.nl,Film 1 Premiere,https://tvgidsassets.nl/v368/img/channels/120x120/24.png
+Film1.Action.nl,Film1 Action,https://tvgidsassets.nl/v368/img/channels/120x120/411.png
+Film1.Drama.nl,Film1 Drama,https://tvgidsassets.nl/v368/img/channels/120x120/430.png
+Film1.Family.nl,Film1 Family,https://tvgidsassets.nl/v368/img/channels/120x120/39.png
+Filmbox.nl.nl,Filmbox.nl,https://tvgidsassets.nl/v368/img/channels/120x120/495.png
+HGTV.nl,HGTV,https://tvgidsassets.nl/v368/img/channels/120x120/497.png
+HISTORY.nl,HISTORY,https://tvgidsassets.nl/v368/img/channels/120x120/413.png
+INPLUS.nl,INPLUS,https://tvgidsassets.nl/v368/img/channels/120x120/475.png
+Investigation.Discovery.nl,Investigation Discovery,https://tvgidsassets.nl/v368/img/channels/120x120/414.png
+L1.TV.nl,L1 TV,https://tvgidsassets.nl/v368/img/channels/120x120/115.png
+Love.Nature.nl,Love Nature,https://tvgidsassets.nl/v368/img/channels/120x120/486.png
+MTV.nl,MTV,https://tvgidsassets.nl/v368/img/channels/120x120/25.png
+Mezzo.nl,Mezzo,https://tvgidsassets.nl/v368/img/channels/120x120/73.png
+NDR.Fernsehen.nl,NDR Fernsehen,https://tvgidsassets.nl/v368/img/channels/120x120/13.png
+NET.5.nl,NET 5,https://tvgidsassets.nl/v368/img/channels/120x120/37.png
+NH.nl,NH,https://tvgidsassets.nl/v368/img/channels/120x120/103.png
+NPO.1.extra.nl,NPO 1 extra,https://tvgidsassets.nl/v368/img/channels/120x120/410.png
+NPO.1.nl,NPO 1,https://tvgidsassets.nl/v368/img/channels/120x120/1.png
+NPO.2.extra.nl,NPO 2 extra,https://tvgidsassets.nl/v368/img/channels/120x120/70.png
+NPO.2.nl,NPO 2,https://tvgidsassets.nl/v368/img/channels/120x120/2.png
+NPO.3.nl,NPO 3,https://tvgidsassets.nl/v368/img/channels/120x120/3.png
+NPO.Politiek.nl,NPO Politiek,https://tvgidsassets.nl/v368/img/channels/120x120/494.png
+Nat.Geo.Wild.nl,Nat Geo Wild,https://tvgidsassets.nl/v368/img/channels/120x120/416.png
+National.Geographic.nl,National Geographic,https://tvgidsassets.nl/v368/img/channels/120x120/18.png
+Nick.Jr..nl,Nick Jr.,https://tvgidsassets.nl/v368/img/channels/120x120/312.png
+Nickelodeon.nl,Nickelodeon,https://tvgidsassets.nl/v368/img/channels/120x120/89.png
+ONS.nl,ONS,https://tvgidsassets.nl/v368/img/channels/120x120/406.png
+OUTtv.nl,OUTtv,https://tvgidsassets.nl/v368/img/channels/120x120/407.png
+Omroep.Brabant.nl,Omroep Brabant,https://tvgidsassets.nl/v368/img/channels/120x120/114.png
+Omroep.Flevoland.nl,Omroep Flevoland,https://tvgidsassets.nl/v368/img/channels/120x120/113.png
+Omroep.Gelderland.nl,Omroep Gelderland,https://tvgidsassets.nl/v368/img/channels/120x120/112.png
+Omroep.Zeeland.nl,Omroep Zeeland,https://tvgidsassets.nl/v368/img/channels/120x120/116.png
+Omrop.Fryslân.nl,Omrop Fryslân,https://tvgidsassets.nl/v368/img/channels/120x120/109.png
+Oranje.TV.nl,Oranje TV,https://tvgidsassets.nl/v368/img/channels/120x120/429.png
+PRO.7.nl,PRO 7,https://tvgidsassets.nl/v368/img/channels/120x120/58.png
+Paramount.Network.nl,Paramount Network,https://tvgidsassets.nl/v368/img/channels/120x120/496.png
+Pebble.TV.nl,Pebble TV,https://tvgidsassets.nl/v368/img/channels/120x120/461.png
+Play4.nl,Play4,https://tvgidsassets.nl/v368/img/channels/120x120/60.png
+RTBF.La.1.nl,RTBF La 1,https://tvgidsassets.nl/v368/img/channels/120x120/15.png
+RTBF.La.2.nl,RTBF La 2,https://tvgidsassets.nl/v368/img/channels/120x120/16.png
+RTL.4.nl,RTL 4,https://tvgidsassets.nl/v368/img/channels/120x120/11.png
+RTL.5.nl,RTL 5,https://tvgidsassets.nl/v368/img/channels/120x120/31.png
+RTL.7.nl,RTL 7,https://tvgidsassets.nl/v368/img/channels/120x120/46.png
+RTL.8.nl,RTL 8,https://tvgidsassets.nl/v368/img/channels/120x120/92.png
+RTL.Crime.nl,RTL Crime,https://tvgidsassets.nl/v368/img/channels/120x120/409.png
+RTL.Lounge.nl,RTL Lounge,https://tvgidsassets.nl/v368/img/channels/120x120/408.png
+RTL.Telekids.nl,RTL Telekids,https://tvgidsassets.nl/v368/img/channels/120x120/485.png
+RTL.Z.nl,RTL Z,https://tvgidsassets.nl/v368/img/channels/120x120/465.png
 RTL.nl,RTL,
-RTV.Drenthe.nl,RTV Drenthe,https://tvgidsassets.nl/v366/img/channels/120x120/110.png
-RTV.Oost.nl,RTV Oost,https://tvgidsassets.nl/v366/img/channels/120x120/111.png
-RTV.Rijnmond.nl,RTV Rijnmond,https://tvgidsassets.nl/v366/img/channels/120x120/102.png
-RTV.Utrecht.nl,RTV Utrecht,https://tvgidsassets.nl/v366/img/channels/120x120/100.png
-RTV.West.nl,RTV West,https://tvgidsassets.nl/v366/img/channels/120x120/101.png
-Rai.Uno.nl,Rai Uno,https://tvgidsassets.nl/v366/img/channels/120x120/27.png
-SBS.6.nl,SBS 6,https://tvgidsassets.nl/v366/img/channels/120x120/36.png
-STAR.Channel.nl,STAR Channel,https://tvgidsassets.nl/v366/img/channels/120x120/440.png
-Sat.1.nl,Sat 1,https://tvgidsassets.nl/v366/img/channels/120x120/28.png
-ShortsTV.nl,ShortsTV,https://tvgidsassets.nl/v366/img/channels/120x120/462.png
-Stingray.Classica.nl,Stingray Classica,https://tvgidsassets.nl/v366/img/channels/120x120/482.png
+RTV.Drenthe.nl,RTV Drenthe,https://tvgidsassets.nl/v368/img/channels/120x120/110.png
+RTV.Oost.nl,RTV Oost,https://tvgidsassets.nl/v368/img/channels/120x120/111.png
+RTV.Rijnmond.nl,RTV Rijnmond,https://tvgidsassets.nl/v368/img/channels/120x120/102.png
+RTV.Utrecht.nl,RTV Utrecht,https://tvgidsassets.nl/v368/img/channels/120x120/100.png
+RTV.West.nl,RTV West,https://tvgidsassets.nl/v368/img/channels/120x120/101.png
+Rai.Uno.nl,Rai Uno,https://tvgidsassets.nl/v368/img/channels/120x120/27.png
+SBS.6.nl,SBS 6,https://tvgidsassets.nl/v368/img/channels/120x120/36.png
+STAR.Channel.nl,STAR Channel,https://tvgidsassets.nl/v368/img/channels/120x120/440.png
+Sat.1.nl,Sat 1,https://tvgidsassets.nl/v368/img/channels/120x120/28.png
+ShortsTV.nl,ShortsTV,https://tvgidsassets.nl/v368/img/channels/120x120/462.png
+Stingray.Classica.nl,Stingray Classica,https://tvgidsassets.nl/v368/img/channels/120x120/482.png
 Stingray.Lite.TV.nl,Stingray Lite TV,https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/84.svg
-TLC.nl,TLC,https://tvgidsassets.nl/v366/img/channels/120x120/438.png
-TRT.World.nl,TRT World,https://tvgidsassets.nl/v366/img/channels/120x120/32.png
-TV.538.nl,TV 538,https://tvgidsassets.nl/v366/img/channels/120x120/476.png
-TV.E.nl,TV E,https://tvgidsassets.nl/v366/img/channels/120x120/87.png
-TV.Noord.nl,TV Noord,https://tvgidsassets.nl/v366/img/channels/120x120/108.png
-TV5MONDE.nl,TV5MONDE,https://tvgidsassets.nl/v366/img/channels/120x120/17.png
-VRT.1.nl,VRT 1,https://tvgidsassets.nl/v366/img/channels/120x120/5.png
-VRT.Canvas.nl,VRT Canvas,https://tvgidsassets.nl/v366/img/channels/120x120/6.png
-VRT.Ketnet.nl,VRT Ketnet,https://tvgidsassets.nl/v366/img/channels/120x120/441.png
+TLC.nl,TLC,https://tvgidsassets.nl/v368/img/channels/120x120/438.png
+TRT.World.nl,TRT World,https://tvgidsassets.nl/v368/img/channels/120x120/32.png
+TV.538.nl,TV 538,https://tvgidsassets.nl/v368/img/channels/120x120/476.png
+TV.E.nl,TV E,https://tvgidsassets.nl/v368/img/channels/120x120/87.png
+TV.Noord.nl,TV Noord,https://tvgidsassets.nl/v368/img/channels/120x120/108.png
+TV5MONDE.nl,TV5MONDE,https://tvgidsassets.nl/v368/img/channels/120x120/17.png
+VRT.1.nl,VRT 1,https://tvgidsassets.nl/v368/img/channels/120x120/5.png
+VRT.Canvas.nl,VRT Canvas,https://tvgidsassets.nl/v368/img/channels/120x120/6.png
+VRT.Ketnet.nl,VRT Ketnet,https://tvgidsassets.nl/v368/img/channels/120x120/441.png
 Veronica.nl,Veronica,
-Veronica/Disney.XD.nl,Veronica/Disney XD,https://tvgidsassets.nl/v366/img/channels/120x120/311.png
-Viaplay.TV.nl,Viaplay TV,https://tvgidsassets.nl/v366/img/channels/120x120/499.png
-WDR.Fernsehen.nl,WDR Fernsehen,https://tvgidsassets.nl/v366/img/channels/120x120/12.png
-XITE.nl,XITE,https://tvgidsassets.nl/v366/img/channels/120x120/481.png
-ZDF.nl,ZDF,https://tvgidsassets.nl/v366/img/channels/120x120/10.png
-Ziggo.Sport.2.nl,Ziggo Sport 2,https://tvgidsassets.nl/v366/img/channels/120x120/474.png
-Ziggo.Sport.3.nl,Ziggo Sport 3,https://tvgidsassets.nl/v366/img/channels/120x120/420.png
-Ziggo.Sport.4.nl,Ziggo Sport 4,https://tvgidsassets.nl/v366/img/channels/120x120/490.png
-Ziggo.Sport.5.nl,Ziggo Sport 5,https://tvgidsassets.nl/v366/img/channels/120x120/491.png
-Ziggo.Sport.6.nl,Ziggo Sport 6,https://tvgidsassets.nl/v366/img/channels/120x120/419.png
-Ziggo.Sport.nl,Ziggo Sport,https://tvgidsassets.nl/v366/img/channels/120x120/99.png
+Veronica/Disney.XD.nl,Veronica/Disney XD,https://tvgidsassets.nl/v368/img/channels/120x120/311.png
+Viaplay.TV.nl,Viaplay TV,https://tvgidsassets.nl/v368/img/channels/120x120/499.png
+WDR.Fernsehen.nl,WDR Fernsehen,https://tvgidsassets.nl/v368/img/channels/120x120/12.png
+XITE.nl,XITE,https://tvgidsassets.nl/v368/img/channels/120x120/481.png
+ZDF.nl,ZDF,https://tvgidsassets.nl/v368/img/channels/120x120/10.png
+Ziggo.Sport.2.nl,Ziggo Sport 2,https://tvgidsassets.nl/v368/img/channels/120x120/474.png
+Ziggo.Sport.3.nl,Ziggo Sport 3,https://tvgidsassets.nl/v368/img/channels/120x120/420.png
+Ziggo.Sport.4.nl,Ziggo Sport 4,https://tvgidsassets.nl/v368/img/channels/120x120/490.png
+Ziggo.Sport.5.nl,Ziggo Sport 5,https://tvgidsassets.nl/v368/img/channels/120x120/491.png
+Ziggo.Sport.6.nl,Ziggo Sport 6,https://tvgidsassets.nl/v368/img/channels/120x120/419.png
+Ziggo.Sport.nl,Ziggo Sport,https://tvgidsassets.nl/v368/img/channels/120x120/99.png
