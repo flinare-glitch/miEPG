@@ -37,6 +37,7 @@ DE | sportdigital,Sport Digital Fussball Alemania
 FR · beIN SPORTS 1,FR · beIN SPORTS 1
 FR · beIN SPORTS 2,FR · beIN SPORTS 2
 FR · beIN SPORTS 3,FR · beIN SPORTS 3
+FR · L’Equipe,FR | L`ÉQUIPE
 Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
 Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
 Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
