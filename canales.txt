@@ -20,6 +20,11 @@ Cheddar.us2,Cheddar USA,http://dshm.tmsimg.com/assets/s109333_ll_h15_ae.png?w=36
 POP.HD.us2,Popstar! TV,http://dshm.tmsimg.com/assets/s68796_ll_h15_aa.png?w=360&amp;h=270
 CA36000019W,The NBA Channel
 CA1400003R3,TSN The Ocho
+PT | DAZN 1,DAZN 1 Portugal
+PT | DAZN 2,DAZN 2 Portugal
+PT | DAZN 3,DAZN 3 Portugal
+PT | DAZN 4,DAZN 4 Portugal
+PT | DAZN 5,DAZN 5 Portugal
 UK | TNT Sports 1,TNT Sports 1
 UK | TNT Sports 2,TNT Sports 2
 UK | TNT Sports 3,TNT Sports 3
