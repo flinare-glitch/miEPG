@@ -58,4 +58,3 @@ Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1
 Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2
 Polsat.Sport.pl,Polsat Sport
 Polsat.Sport.Extra.HD.pl,Polsat Sport Extra
-
