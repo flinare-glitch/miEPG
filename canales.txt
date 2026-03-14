@@ -25,16 +25,6 @@ PT | DAZN 2,DAZN 2 Portugal
 PT | DAZN 3,DAZN 3 Portugal
 PT | DAZN 4,DAZN 4 Portugal
 PT | DAZN 5,DAZN 5 Portugal
-UK | TNT Sports 1,TNT Sports 1
-UK | TNT Sports 2,TNT Sports 2
-UK | TNT Sports 3,TNT Sports 3
-UK | TNT Sports 4,TNT Sports 4
-UK | Sky Sports Premier League,UK | Sky Sport Premier League
-UK | Sky Sports Football,UK | Sky Sports Football
-UK | Sky Sports Main Event,UK | Sky Sports Main Event
-UK | Sky Sports +,UK | Sky Sports +
-UK | Premier Sports 1,Premier Sports 1
-UK | Premier Sports 2,Premier Sports 2
 DE | Sky Sport 1,Sky Sport 1 Alemania
 DE | Sky Sport F1,SKY SPORT F1 Alemania
 DE | Sky Sport Bundesliga 1,SkySport Bundesliga Alemania
