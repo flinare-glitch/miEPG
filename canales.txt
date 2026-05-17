@@ -25,6 +25,7 @@ PT | DAZN 2,DAZN 2 Portugal
 PT | DAZN 3,DAZN 3 Portugal
 PT | DAZN 4,DAZN 4 Portugal
 PT | DAZN 5,DAZN 5 Portugal
+PT | DAZN 6,DAZN 6 Portugal,https://iptvboss.xyz/logos/Portugal/DAZN6.pt.png
 DE | Sky Sport 1,Sky Sport 1 Alemania
 DE | Sky Sport F1,SKY SPORT F1 Alemania
 DE | Sky Sport Bundesliga 1,SkySport Bundesliga Alemania
