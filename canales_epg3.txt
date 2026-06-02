@@ -1,119 +1,159 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz
+100%.NL.TV.nl,100% NL TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000133_019271/channelLogo?type=channel
 192TV.nl,192TV,https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/98.svg
-24Kitchen.nl,24Kitchen,https://tvgidsassets.nl/v378/img/channels/120x120/435.png
-3Sat.nl,3Sat,https://tvgidsassets.nl/v378/img/channels/120x120/50.png
-ARD.nl,ARD,https://tvgidsassets.nl/v378/img/channels/120x120/9.png
-ARTE.nl,ARTE,https://tvgidsassets.nl/v378/img/channels/120x120/38.png
-AT5.nl,AT5,https://tvgidsassets.nl/v378/img/channels/120x120/40.png
-Al.Jazeera.Engels.nl,Al Jazeera Engels,https://tvgidsassets.nl/v378/img/channels/120x120/423.png
-Animal.Planet.nl,Animal Planet,https://tvgidsassets.nl/v378/img/channels/120x120/439.png
-BBC.1.nl,BBC 1,https://tvgidsassets.nl/v378/img/channels/120x120/7.png
-BBC.2.nl,BBC 2,https://tvgidsassets.nl/v378/img/channels/120x120/8.png
-BBC.4.nl,BBC 4,https://tvgidsassets.nl/v378/img/channels/120x120/301.png
-BBC.NL.nl,BBC NL,https://tvgidsassets.nl/v378/img/channels/120x120/464.png
-BBC.World.nl,BBC World,
-BVN.nl,BVN,https://tvgidsassets.nl/v378/img/channels/120x120/90.png
-Beleef.KPN.nl,Beleef KPN,
-CBS.Reality.nl,CBS Reality,https://tvgidsassets.nl/v368/img/channels/120x120/315.png
-CNBC.nl,CNBC,https://tvgidsassets.nl/v378/img/channels/120x120/487.png
-CNN.nl,CNN,https://tvgidsassets.nl/v378/img/channels/120x120/26.png
-Canal+.Action.nl,Canal+ Action,https://tvgidsassets.nl/v378/img/channels/120x120/498.png
-Cartoon.Network.nl,Cartoon Network,https://tvgidsassets.nl/v378/img/channels/120x120/21.png
-Cartoonito.nl,Cartoonito,https://tvgidsassets.nl/v372/img/channels/120x120/313.png
-Comedy.Central.nl,Comedy Central,https://tvgidsassets.nl/v378/img/channels/120x120/91.png
-Crime.+.Investigation.nl,Crime + Investigation,https://tvgidsassets.nl/v378/img/channels/120x120/472.png
-Discovery.Science.nl,Discovery Science,https://tvgidsassets.nl/v378/img/channels/120x120/306.png
-Discovery.nl,Discovery,https://tvgidsassets.nl/v378/img/channels/120x120/29.png
-Disney.Channel.nl,Disney Channel,https://tvgidsassets.nl/v378/img/channels/120x120/424.png
-Disney.XD.nl,Disney XD,
-E!.Entertainment.nl,E! Entertainment,https://tvgidsassets.nl/v378/img/channels/120x120/483.png
-ESPN.1.nl,ESPN 1,https://tvgidsassets.nl/v378/img/channels/120x120/148.png
-ESPN.2.nl,ESPN 2,https://tvgidsassets.nl/v378/img/channels/120x120/468.png
-ESPN.3.nl,ESPN 3,https://tvgidsassets.nl/v378/img/channels/120x120/469.png
-ESPN.4.nl,ESPN 4,https://tvgidsassets.nl/v378/img/channels/120x120/470.png
-Euronews.nl,Euronews,https://tvgidsassets.nl/v378/img/channels/120x120/422.png
-Eurosport.1.nl,Eurosport 1,https://tvgidsassets.nl/v378/img/channels/120x120/19.png
-Eurosport.2.nl,Eurosport 2,https://tvgidsassets.nl/v378/img/channels/120x120/436.png
-Extreme.Sports.Channel.nl,Extreme Sports Channel,https://tvgidsassets.nl/v378/img/channels/120x120/417.png
-Film.1.Premiere.nl,Film 1 Premiere,https://tvgidsassets.nl/v378/img/channels/120x120/24.png
-Film1.Action.nl,Film1 Action,https://tvgidsassets.nl/v378/img/channels/120x120/411.png
-Film1.Drama.nl,Film1 Drama,https://tvgidsassets.nl/v378/img/channels/120x120/430.png
-Film1.Family.nl,Film1 Family,https://tvgidsassets.nl/v378/img/channels/120x120/39.png
-Filmbox.nl.nl,Filmbox.nl,https://tvgidsassets.nl/v378/img/channels/120x120/495.png
-HGTV.nl,HGTV,https://tvgidsassets.nl/v378/img/channels/120x120/497.png
-HISTORY.nl,HISTORY,https://tvgidsassets.nl/v378/img/channels/120x120/413.png
-INPLUS.nl,INPLUS,https://tvgidsassets.nl/v378/img/channels/120x120/475.png
-Investigation.Discovery.nl,Investigation Discovery,https://tvgidsassets.nl/v378/img/channels/120x120/414.png
-L1.TV.nl,L1 TV,https://tvgidsassets.nl/v378/img/channels/120x120/115.png
-Love.Nature.nl,Love Nature,https://tvgidsassets.nl/v378/img/channels/120x120/486.png
-MTV.nl,MTV,https://tvgidsassets.nl/v378/img/channels/120x120/25.png
-Mezzo.nl,Mezzo,https://tvgidsassets.nl/v378/img/channels/120x120/73.png
-NDR.Fernsehen.nl,NDR Fernsehen,https://tvgidsassets.nl/v378/img/channels/120x120/13.png
-NET.5.nl,NET 5,https://tvgidsassets.nl/v378/img/channels/120x120/37.png
-NH.nl,NH,https://tvgidsassets.nl/v378/img/channels/120x120/103.png
-NPO.1.extra.nl,NPO 1 extra,https://tvgidsassets.nl/v378/img/channels/120x120/410.png
-NPO.1.nl,NPO 1,https://tvgidsassets.nl/v378/img/channels/120x120/1.png
-NPO.2.extra.nl,NPO 2 extra,https://tvgidsassets.nl/v378/img/channels/120x120/70.png
-NPO.2.nl,NPO 2,https://tvgidsassets.nl/v378/img/channels/120x120/2.png
-NPO.3.nl,NPO 3,https://tvgidsassets.nl/v378/img/channels/120x120/3.png
-NPO.Politiek.nl,NPO Politiek,https://tvgidsassets.nl/v378/img/channels/120x120/494.png
-Nat.Geo.Wild.nl,Nat Geo Wild,https://tvgidsassets.nl/v378/img/channels/120x120/416.png
-National.Geographic.nl,National Geographic,https://tvgidsassets.nl/v378/img/channels/120x120/18.png
-Nick.Jr..nl,Nick Jr.,https://tvgidsassets.nl/v378/img/channels/120x120/312.png
-Nickelodeon.nl,Nickelodeon,https://tvgidsassets.nl/v378/img/channels/120x120/89.png
-ONS.nl,ONS,https://tvgidsassets.nl/v378/img/channels/120x120/406.png
-OUTtv.nl,OUTtv,https://tvgidsassets.nl/v378/img/channels/120x120/407.png
-Omroep.Brabant.nl,Omroep Brabant,https://tvgidsassets.nl/v378/img/channels/120x120/114.png
-Omroep.Flevoland.nl,Omroep Flevoland,https://tvgidsassets.nl/v378/img/channels/120x120/113.png
-Omroep.Gelderland.nl,Omroep Gelderland,https://tvgidsassets.nl/v378/img/channels/120x120/112.png
-Omroep.Zeeland.nl,Omroep Zeeland,https://tvgidsassets.nl/v378/img/channels/120x120/116.png
-Omrop.Fryslân.nl,Omrop Fryslân,https://tvgidsassets.nl/v378/img/channels/120x120/109.png
-Oranje.TV.nl,Oranje TV,https://tvgidsassets.nl/v378/img/channels/120x120/429.png
-PRO.7.nl,PRO 7,https://tvgidsassets.nl/v378/img/channels/120x120/58.png
-Paramount.Network.nl,Paramount Network,https://tvgidsassets.nl/v378/img/channels/120x120/496.png
-Pebble.TV.nl,Pebble TV,https://tvgidsassets.nl/v378/img/channels/120x120/461.png
-Play4.nl,Play4,https://tvgidsassets.nl/v378/img/channels/120x120/60.png
-RTBF.La.1.nl,RTBF La 1,https://tvgidsassets.nl/v378/img/channels/120x120/15.png
-RTBF.La.2.nl,RTBF La 2,https://tvgidsassets.nl/v378/img/channels/120x120/16.png
-RTL.4.nl,RTL 4,https://tvgidsassets.nl/v378/img/channels/120x120/11.png
-RTL.5.nl,RTL 5,https://tvgidsassets.nl/v378/img/channels/120x120/31.png
-RTL.7.nl,RTL 7,https://tvgidsassets.nl/v378/img/channels/120x120/46.png
-RTL.8.nl,RTL 8,https://tvgidsassets.nl/v378/img/channels/120x120/92.png
-RTL.Crime.nl,RTL Crime,https://tvgidsassets.nl/v378/img/channels/120x120/409.png
-RTL.Lounge.nl,RTL Lounge,https://tvgidsassets.nl/v378/img/channels/120x120/408.png
-RTL.Telekids.nl,RTL Telekids,https://tvgidsassets.nl/v378/img/channels/120x120/485.png
-RTL.Z.nl,RTL Z,https://tvgidsassets.nl/v378/img/channels/120x120/465.png
+24Kitchen.nl,24Kitchen,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000024_019701/channelLogo?type=channel
+2M.nl,2M,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000051_019047/channelLogo?type=channel
+ARD.nl,ARD,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000034_020027/channelLogo?type=channel
+AT5.nl,AT5,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000149_019210/channelLogo?type=channel
+ATV.Avrupa.nl,ATV Avrupa,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000163_019272/channelLogo?type=channel
+Aljazeera.English.nl,Aljazeera English,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000118_019350/channelLogo?type=channel
+Animal.Planet.nl,Animal Planet,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000078_020002/channelLogo?type=channel
+Arte.nl,Arte,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000046_020053/channelLogo?type=channel
+BBC.NL.nl,BBC NL,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000022_019328/channelLogo?type=channel
+BBC.News.nl,BBC News,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000116_019005/channelLogo?type=channel
+BBC.One.nl,BBC One,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000040_020022/channelLogo?type=channel
+BBC.Two.nl,BBC Two,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000041_019369/channelLogo?type=channel
+BabyTV.nl,BabyTV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000091_019490/channelLogo?type=channel
+Brazzers.TV.nl,Brazzers TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000226_019309/channelLogo?type=channel
+CNBC.Europe.nl,CNBC Europe,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000119_019481/channelLogo?type=channel
+CNN.nl,CNN,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000115_019447/channelLogo?type=channel
+Cartoon.Network.nl,Cartoon Network,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000088_019251/channelLogo?type=channel
+Cartoonito.nl,Cartoonito,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000090_019492/channelLogo?type=channel
+Colors.TV.nl,Colors TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_200035_100000/channelLogo?type=channel
+Comedy.Central.nl,Comedy Central,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000015_019166/channelLogo?type=channel
+Crime+Investigation.nl,Crime+Investigation,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000057_019493/channelLogo?type=channel
+Curiosity.Channel.nl,Curiosity Channel,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000216_019122/channelLogo?type=channel
+DanceTelevision.nl,DanceTelevision,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000124_019487/channelLogo?type=channel
+Discovery.Science.nl,Discovery Science,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000075_019246/channelLogo?type=channel
+Discovery.nl,Discovery,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000017_019222/channelLogo?type=channel
+Disney.Channel.nl,Disney Channel,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000027_019330/channelLogo?type=channel
+Dorcel.TV.nl,Dorcel TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000227_019310/channelLogo?type=channel
+Dreamworks.nl,Dreamworks,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000221_020041/channelLogo?type=channel
+E!.nl,E!,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000061_019331/channelLogo?type=channel
+ESPN.2.nl,ESPN 2,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000108_019561/channelLogo?type=channel
+ESPN.3.nl,ESPN 3,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000109_019464/channelLogo?type=channel
+ESPN.4.nl,ESPN 4,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000110_019562/channelLogo?type=channel
+ESPN.Compleet.nl,ESPN Compleet,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000237_000000/channelLogo?type=channel
+ESPN.nl,ESPN,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_900016_019441/channelLogo?type=channel
+Euro.D.nl,Euro D,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000157_019270/channelLogo?type=channel
+Euronews.nl,Euronews,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000117_019351/channelLogo?type=channel
+Eurosport.1.nl,Eurosport 1,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000020_019432/channelLogo?type=channel
+Eurosport.2.nl,Eurosport 2,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000103_019581/channelLogo?type=channel
+Eurostar.nl,Eurostar,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000158_019266/channelLogo?type=channel
+Family7.nl,Family7,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000081_020051/channelLogo?type=channel
+Fashion.TV.HD.nl,Fashion TV HD,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000067_020024/channelLogo?type=channel
+Film1.Action.nl,Film1 Action,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000053_019653/channelLogo?type=channel
+Film1.Drama.nl,Film1 Drama,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000055_019645/channelLogo?type=channel
+Film1.Family.nl,Film1 Family,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000054_019654/channelLogo?type=channel
+Film1.Pakket.nl,Film1 Pakket,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000235_000000/channelLogo?type=channel
+Film1.Premiere.nl,Film1 Premiere,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000052_019655/channelLogo?type=channel
+FilmBox.nl,FilmBox,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000213_020003/channelLogo?type=channel
+HGTV.nl,HGTV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000223_019293/channelLogo?type=channel
+HISTORY.nl,HISTORY,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000028_019705/channelLogo?type=channel
+Habertürk.nl,Habertürk,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000159_019273/channelLogo?type=channel
+Hindi.Pakket.nl,Hindi Pakket,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000239_000000/channelLogo?type=channel
+Horse.and.Country.TV.nl,Horse and Country TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000069_020071/channelLogo?type=channel
+ID.nl,ID,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000058_019381/channelLogo?type=channel
+Ketnet.nl,Ketnet,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000033_019025/channelLogo?type=channel
+L1.TV.nl,L1 TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000148_019144/channelLogo?type=channel
+Love.Nature.nl,Love Nature,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000191_019261/channelLogo?type=channel
+MTV.nl,MTV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000023_019363/channelLogo?type=channel
+Mediaset.Italia.nl,Mediaset Italia,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000048_020052/channelLogo?type=channel
+Meiden.van.Holland.Hard.nl,Meiden van Holland Hard,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000175_019312/channelLogo?type=channel
+Mezzo.nl,Mezzo,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000130_019274/channelLogo?type=channel
+Moonbug.nl,Moonbug,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000229_000000/channelLogo?type=channel
+MyZen.TV.nl,MyZen TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000068_020055/channelLogo?type=channel
+NDR.nl,NDR,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000037_019186/channelLogo?type=channel
+NH.nl,NH,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000142_019211/channelLogo?type=channel
+NPO.1.Extra.nl,NPO 1 Extra,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000063_019307/channelLogo?type=channel
+NPO.1.nl,NPO 1,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000001_019401/channelLogo?type=channel
+NPO.2.Extra.nl,NPO 2 Extra,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000080_019484/channelLogo?type=channel
+NPO.2.nl,NPO 2,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000002_019402/channelLogo?type=channel
+NPO.3.nl,NPO 3,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000003_019405/channelLogo?type=channel
+NPO.Politiek.en.Nieuws.nl,NPO Politiek en Nieuws,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000114_019151/channelLogo?type=channel
+NPO.Soul.and.Jazz.nl,NPO Soul and Jazz,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_005049_018501/channelLogo?type=channel
+National.Geographic.WILD.nl,National Geographic WILD,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000077_019706/channelLogo?type=channel
+National.Geographic.nl,National Geographic,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000018_019221/channelLogo?type=channel
+Net5.nl,Net5,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000009_019024/channelLogo?type=channel
+Nick.Jr..nl,Nick Jr.,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000087_019303/channelLogo?type=channel
+Nickelodeon.Ukraine.nl,Nickelodeon Ukraine,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000212_020042/channelLogo?type=channel
+Nickelodeon.nl,Nickelodeon,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000029_019046/channelLogo?type=channel
+Nicktoons.nl,Nicktoons,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000084_019301/channelLogo?type=channel
+ONS.nl,ONS,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000030_019152/channelLogo?type=channel
+OUTTV.nl,OUTTV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000064_019275/channelLogo?type=channel
+Omroep.Brabant.nl,Omroep Brabant,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000147_019593/channelLogo?type=channel
+Omroep.Flevoland.nl,Omroep Flevoland,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000141_019209/channelLogo?type=channel
+Omroep.Gelderland.nl,Omroep Gelderland,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000140_019594/channelLogo?type=channel
+Omroep.Zeeland.nl,Omroep Zeeland,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000146_019213/channelLogo?type=channel
+Omrop.Fryslân.nl,Omrop Fryslân,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000137_019214/channelLogo?type=channel
+Oost.nl,Oost,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000139_019592/channelLogo?type=channel
+Paramount.Network.nl,Paramount Network,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000016_019388/channelLogo?type=channel
+PassieXXX.nl,PassieXXX,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000173_019305/channelLogo?type=channel
+Penthouse.Gold.nl,Penthouse Gold,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000171_019313/channelLogo?type=channel
+Playboy.TV.Europe.nl,Playboy TV Europe,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000217_019123/channelLogo?type=channel
+RTL.4.nl,RTL 4,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000038_019063/channelLogo?type=channel
+RTL.5.nl,RTL 5,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000005_019462/channelLogo?type=channel
+RTL.7.nl,RTL 7,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000007_019181/channelLogo?type=channel
+RTL.8.nl,RTL 8,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000010_019422/channelLogo?type=channel
+RTL.Crime.nl,RTL Crime,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000056_019483/channelLogo?type=channel
+RTL.Lounge.nl,RTL Lounge,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000072_019298/channelLogo?type=channel
+RTL.Telekids.nl,RTL Telekids,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000093_019299/channelLogo?type=channel
+RTL.Z.nl,RTL Z,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000012_019191/channelLogo?type=channel
 RTL.nl,RTL,
-RTV.Drenthe.nl,RTV Drenthe,https://tvgidsassets.nl/v378/img/channels/120x120/110.png
-RTV.Oost.nl,RTV Oost,https://tvgidsassets.nl/v378/img/channels/120x120/111.png
-RTV.Rijnmond.nl,RTV Rijnmond,https://tvgidsassets.nl/v378/img/channels/120x120/102.png
-RTV.Utrecht.nl,RTV Utrecht,https://tvgidsassets.nl/v378/img/channels/120x120/100.png
-RTV.West.nl,RTV West,https://tvgidsassets.nl/v378/img/channels/120x120/101.png
-Rai.Uno.nl,Rai Uno,https://tvgidsassets.nl/v378/img/channels/120x120/27.png
-SBS.6.nl,SBS 6,https://tvgidsassets.nl/v378/img/channels/120x120/36.png
-STAR.Channel.nl,STAR Channel,https://tvgidsassets.nl/v378/img/channels/120x120/440.png
-Sat.1.nl,Sat 1,https://tvgidsassets.nl/v378/img/channels/120x120/28.png
-ShortsTV.nl,ShortsTV,https://tvgidsassets.nl/v378/img/channels/120x120/462.png
-Stingray.Classica.nl,Stingray Classica,https://tvgidsassets.nl/v378/img/channels/120x120/482.png
+RTV.Drenthe.nl,RTV Drenthe,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000138_019591/channelLogo?type=channel
+RTV.Noord.nl,RTV Noord,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000136_019583/channelLogo?type=channel
+RTV.Rijnmond.nl,RTV Rijnmond,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000145_019208/channelLogo?type=channel
+RTV.Utrecht.nl,RTV Utrecht,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000143_019207/channelLogo?type=channel
+RTV.West.nl,RTV West,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000144_019212/channelLogo?type=channel
+RTV7.nl,RTV7,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000049_019514/channelLogo?type=channel
+SBS6.nl,SBS6,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000006_019130/channelLogo?type=channel
+SBS9.nl,SBS9,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000019_019671/channelLogo?type=channel
+SLAM!TV.nl,SLAM!TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000125_019294/channelLogo?type=channel
+STAR.Channel.nl,STAR Channel,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000011_019563/channelLogo?type=channel
+Sat..1.nl,Sat. 1,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000039_019153/channelLogo?type=channel
+Secret.Circle.nl,Secret Circle,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000170_019515/channelLogo?type=channel
+Shorts.TV.nl,Shorts TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000060_019297/channelLogo?type=channel
+ShowTürk.nl,ShowTürk,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000156_020072/channelLogo?type=channel
+Sony.Max.nl,Sony Max,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_200034_100000/channelLogo?type=channel
+Sony.TV.Asia.nl,Sony TV Asia,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000155_020073/channelLogo?type=channel
+Stingray.Classica.nl,Stingray Classica,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000129_020044/channelLogo?type=channel
+Stingray.DJAZZ.nl,Stingray DJAZZ,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000131_019248/channelLogo?type=channel
 Stingray.Lite.TV.nl,Stingray Lite TV,https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/84.svg
-TLC.nl,TLC,https://tvgidsassets.nl/v378/img/channels/120x120/438.png
-TRT.World.nl,TRT World,https://tvgidsassets.nl/v378/img/channels/120x120/32.png
-TV.538.nl,TV 538,https://tvgidsassets.nl/v378/img/channels/120x120/476.png
-TV.E.nl,TV E,https://tvgidsassets.nl/v378/img/channels/120x120/87.png
-TV.Noord.nl,TV Noord,https://tvgidsassets.nl/v378/img/channels/120x120/108.png
-TV5MONDE.nl,TV5MONDE,https://tvgidsassets.nl/v378/img/channels/120x120/17.png
-VRT.1.nl,VRT 1,https://tvgidsassets.nl/v378/img/channels/120x120/5.png
-VRT.Canvas.nl,VRT Canvas,https://tvgidsassets.nl/v378/img/channels/120x120/6.png
-VRT.Ketnet.nl,VRT Ketnet,https://tvgidsassets.nl/v378/img/channels/120x120/441.png
-Veronica.nl,Veronica,
-Veronica/Disney.XD.nl,Veronica/Disney XD,https://tvgidsassets.nl/v378/img/channels/120x120/311.png
-Viaplay.TV.nl,Viaplay TV,https://tvgidsassets.nl/v378/img/channels/120x120/499.png
-WDR.Fernsehen.nl,WDR Fernsehen,https://tvgidsassets.nl/v378/img/channels/120x120/12.png
-XITE.nl,XITE,https://tvgidsassets.nl/v378/img/channels/120x120/481.png
-ZDF.nl,ZDF,https://tvgidsassets.nl/v378/img/channels/120x120/10.png
-Ziggo.Sport.2.nl,Ziggo Sport 2,https://tvgidsassets.nl/v378/img/channels/120x120/474.png
-Ziggo.Sport.3.nl,Ziggo Sport 3,https://tvgidsassets.nl/v378/img/channels/120x120/420.png
-Ziggo.Sport.4.nl,Ziggo Sport 4,https://tvgidsassets.nl/v378/img/channels/120x120/490.png
-Ziggo.Sport.5.nl,Ziggo Sport 5,https://tvgidsassets.nl/v378/img/channels/120x120/491.png
-Ziggo.Sport.6.nl,Ziggo Sport 6,https://tvgidsassets.nl/v378/img/channels/120x120/419.png
-Ziggo.Sport.nl,Ziggo Sport,https://tvgidsassets.nl/v378/img/channels/120x120/99.png
+Stingray.LiteTV.nl,Stingray LiteTV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000127_019295/channelLogo?type=channel
+TLC.nl,TLC,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000021_019566/channelLogo?type=channel
+TOP40.TV.nl,TOP40 TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000230_000000/channelLogo?type=channel
+TRT.Müzik.nl,TRT Müzik,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000164_020070/channelLogo?type=channel
+TRT.Türk.nl,TRT Türk,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000050_019353/channelLogo?type=channel
+TRT.Çocuk.nl,TRT Çocuk,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000162_019250/channelLogo?type=channel
+TV.Oranje.nl,TV Oranje,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000132_019278/channelLogo?type=channel
+TV538.nl,TV538,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000122_019495/channelLogo?type=channel
+TV5Monde.nl,TV5Monde,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000045_019354/channelLogo?type=channel
+TV8.Int..nl,TV8 Int.,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000160_019277/channelLogo?type=channel
+TVE.nl,TVE,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000047_019428/channelLogo?type=channel
+Turks.Pakket.nl,Turks Pakket,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000240_000000/channelLogo?type=channel
+Utsav.Gold.nl,Utsav Gold,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000151_020074/channelLogo?type=channel
+Utsav.Plus.nl,Utsav Plus,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000150_020075/channelLogo?type=channel
+VRT.1.nl,VRT 1,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000031_019362/channelLogo?type=channel
+VRT.CANVAS.nl,VRT CANVAS,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000032_019226/channelLogo?type=channel
+Veronica./.Disney.Jr..nl,Veronica / Disney Jr.,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000008_019442/channelLogo?type=channel
+Viaplay.TV+.nl,Viaplay TV+,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000232_000000/channelLogo?type=channel
+Viaplay.TV.nl,Viaplay TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000238_000000/channelLogo?type=channel
+Viaplay.nl,Viaplay,
+WDR.nl,WDR,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000036_019465/channelLogo?type=channel
+X-MO.nl,X-MO,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000176_019308/channelLogo?type=channel
+XITE.nl,XITE,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000025_019708/channelLogo?type=channel
+ZDF.nl,ZDF,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000035_020028/channelLogo?type=channel
+Zee.Cinema.nl,Zee Cinema,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000153_020076/channelLogo?type=channel
+Zee.TV.nl,Zee TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000152_020077/channelLogo?type=channel
+Ziggo.Sport.2.nl,Ziggo Sport 2,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000095_019371/channelLogo?type=channel
+Ziggo.Sport.3.nl,Ziggo Sport 3,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000096_019382/channelLogo?type=channel
+Ziggo.Sport.4.nl,Ziggo Sport 4,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000097_019370/channelLogo?type=channel
+Ziggo.Sport.5.nl,Ziggo Sport 5,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000098_019255/channelLogo?type=channel
+Ziggo.Sport.6.nl,Ziggo Sport 6,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000099_019256/channelLogo?type=channel
+Ziggo.Sport.Extra.nl,Ziggo Sport Extra,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000233_000000/channelLogo?type=channel
+Ziggo.Sport.Totaal.nl,Ziggo Sport Totaal,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000236_000000/channelLogo?type=channel
+Ziggo.Sport.nl,Ziggo Sport,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000014_019661/channelLogo?type=channel
+Ziggo.TV.nl,Ziggo TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000013_019327/channelLogo?type=channel
+Zing.nl,Zing,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000154_020078/channelLogo?type=channel
+ducktv.nl,ducktv,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000215_020005/channelLogo?type=channel
+njam!.nl,njam!,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000214_020004/channelLogo?type=channel
