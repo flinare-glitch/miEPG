@@ -5,8 +5,6 @@ ESPN.4.nl,ESPN 4 HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/470.p
 Ziggo.Sport.nl,ZIGGO SPORT Holanda
 Ziggo.Sport.2.nl,ZIGGO SPORT 2 Holanda
 Ziggo.Sport.6.nl,ZIGGO SPORT 6 Holanda
-TSN.1.ca2,TSN1
-TSN.2.ca2,TSN2
 FS1.Fox.Sports.1.HD.us2,FOX SPORTS 1 USA,http://dshm.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270
 FS2.Fox.Sports.2.HD.us2,FOX SPORTS 2 USA,http://dshm.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270
 ESPNU.HD.us2,ESPN U,http://dshm.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270
@@ -43,9 +41,11 @@ Eleven.Sports.4.HD.pl,Eleven Sports 4 Polonia,https://iptvboss.xyz/logos/Poland/
 CANAL+.Sport.HD.pl,Canal+ Sport Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport.pl.png
 CANAL+.Sport.2.HD.pl,Canal+ Sport 2 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport2.pl.png
 CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport3.pl.png
-CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport4.pl.png
-CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport5.pl.png
+CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia,http://iptvboss.xyz/logos/Poland/CANAL%2BSport4.pl.png
+CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia,http://iptvboss.xyz/logos/Poland/CANAL%2BSport5.pl.png
 Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1,http://iptvboss.xyz/logos/Poland/PolsatSportPremium1.pl.png
 Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2,http://iptvboss.xyz/logos/Poland/PolsatSportPremium2.pl.png
 Polsat.Sport.pl,Polsat Sport,http://iptvboss.xyz/logos/Poland/PolsatSport.pl.png
 Polsat.Sport.Extra.HD.pl,Polsat Sport Extra,http://iptvboss.xyz/logos/Poland/PolsatSportExtra.pl.png
+Setanta.Sports.1.HD.lv,SETANTA SPORTS 1
+Setanta.Sports.2.HD.lv,SETANTA SPORTS 2
