@@ -25,7 +25,7 @@ PT | DAZN 2,DAZN 2 Portugal
 PT | DAZN 3,DAZN 3 Portugal
 PT | DAZN 4,DAZN 4 Portugal
 PT | DAZN 5,DAZN 5 Portugal
-PT | DAZN 6,DAZN 6 Portugal,https://iptvboss.xyz/logos/Portugal/DAZN6.pt.png
+PT | DAZN 6,DAZN 6 Portugal,http://iptvboss.xyz/logos/Portugal/DAZN6.pt.png
 DE | Sky Sport 1,Sky Sport 1 Alemania
 DE | Sky Sport F1,SKY SPORT F1 Alemania
 DE | Sky Sport Bundesliga 1,SkySport Bundesliga Alemania
@@ -45,7 +45,7 @@ CANAL+.Sport.2.HD.pl,Canal+ Sport 2 Polonia,https://iptvboss.xyz/logos/Poland/CA
 CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport3.pl.png
 CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport4.pl.png
 CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport5.pl.png
-Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1,https://iptvboss.xyz/logos/Poland/PolsatSportPremium1.pl.png
-Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2,https://iptvboss.xyz/logos/Poland/PolsatSportPremium2.pl.png
-Polsat.Sport.pl,Polsat Sport,https://iptvboss.xyz/logos/Poland/PolsatSport.pl.png
-Polsat.Sport.Extra.HD.pl,Polsat Sport Extra,https://iptvboss.xyz/logos/Poland/PolsatSportExtra.pl.png
+Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1,http://iptvboss.xyz/logos/Poland/PolsatSportPremium1.pl.png
+Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2,http://iptvboss.xyz/logos/Poland/PolsatSportPremium2.pl.png
+Polsat.Sport.pl,Polsat Sport,http://iptvboss.xyz/logos/Poland/PolsatSport.pl.png
+Polsat.Sport.Extra.HD.pl,Polsat Sport Extra,http://iptvboss.xyz/logos/Poland/PolsatSportExtra.pl.png
