@@ -1,4 +1,4 @@
-ESPN.1.nl,ESPN HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/148.png
+ESPN.nl,ESPN HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/148.png
 ESPN.2.nl,ESPN 2 HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/468.png
 ESPN.3.nl,ESPN 3 HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/469.png
 ESPN.4.nl,ESPN 4 HOLANDA,https://tvgidsassets.nl/v364/img/channels/120x120/470.png
