@@ -31,10 +31,10 @@ Disney.Channel.nl,Disney Channel,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/
 Dorcel.TV.nl,Dorcel TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000227_019310/channelLogo?type=channel
 Dreamworks.nl,Dreamworks,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000221_020041/channelLogo?type=channel
 E!.nl,E!,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000061_019331/channelLogo?type=channel
-ESPN.2.nl,ESPN 2,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000108_019561/channelLogo?type=channel
-ESPN.3.nl,ESPN 3,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000109_019464/channelLogo?type=channel
-ESPN.4.nl,ESPN 4,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000110_019562/channelLogo?type=channel
-ESPN.Compleet.nl,ESPN Compleet,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000237_000000/channelLogo?type=channel
+ESPN.2.nl,ESPN 2,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_200037_100000/channelLogo?type=channel
+ESPN.3.nl,ESPN 3,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_200038_100000/channelLogo?type=channel
+ESPN.4.nl,ESPN 4,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_200039_100000/channelLogo?type=channel
+ESPN.Premium.nl,ESPN Premium,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000237_000000/channelLogo?type=channel
 ESPN.nl,ESPN,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_900016_019441/channelLogo?type=channel
 Euro.D.nl,Euro D,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000157_019270/channelLogo?type=channel
 Euronews.nl,Euronews,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000117_019351/channelLogo?type=channel
@@ -53,7 +53,7 @@ HGTV.nl,HGTV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent
 HISTORY.nl,HISTORY,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000028_019705/channelLogo?type=channel
 Habertürk.nl,Habertürk,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000159_019273/channelLogo?type=channel
 Hindi.Pakket.nl,Hindi Pakket,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000239_000000/channelLogo?type=channel
-Horse.and.Country.TV.nl,Horse and Country TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000069_020071/channelLogo?type=channel
+Horse.&amp;.Country.TV.nl,Horse &amp; Country TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000069_020071/channelLogo?type=channel
 ID.nl,ID,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000058_019381/channelLogo?type=channel
 Ketnet.nl,Ketnet,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000033_019025/channelLogo?type=channel
 L1.TV.nl,L1 TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000148_019144/channelLogo?type=channel
@@ -72,7 +72,7 @@ NPO.2.Extra.nl,NPO 2 Extra,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-
 NPO.2.nl,NPO 2,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000002_019402/channelLogo?type=channel
 NPO.3.nl,NPO 3,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000003_019405/channelLogo?type=channel
 NPO.Politiek.en.Nieuws.nl,NPO Politiek en Nieuws,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000114_019151/channelLogo?type=channel
-NPO.Soul.and.Jazz.nl,NPO Soul and Jazz,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_005049_018501/channelLogo?type=channel
+NPO.Soul.&amp;.Jazz.nl,NPO Soul &amp; Jazz,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_005049_018501/channelLogo?type=channel
 National.Geographic.WILD.nl,National Geographic WILD,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000077_019706/channelLogo?type=channel
 National.Geographic.nl,National Geographic,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000018_019221/channelLogo?type=channel
 Net5.nl,Net5,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000009_019024/channelLogo?type=channel
@@ -146,6 +146,7 @@ XITE.nl,XITE,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent
 ZDF.nl,ZDF,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000035_020028/channelLogo?type=channel
 Zee.Cinema.nl,Zee Cinema,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000153_020076/channelLogo?type=channel
 Zee.TV.nl,Zee TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000152_020077/channelLogo?type=channel
+Ziggo.Sport.1.nl,Ziggo Sport 1,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000014_019661/channelLogo?type=channel
 Ziggo.Sport.2.nl,Ziggo Sport 2,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000095_019371/channelLogo?type=channel
 Ziggo.Sport.3.nl,Ziggo Sport 3,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000096_019382/channelLogo?type=channel
 Ziggo.Sport.4.nl,Ziggo Sport 4,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000097_019370/channelLogo?type=channel
@@ -153,7 +154,6 @@ Ziggo.Sport.5.nl,Ziggo Sport 5,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/im
 Ziggo.Sport.6.nl,Ziggo Sport 6,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000099_019256/channelLogo?type=channel
 Ziggo.Sport.Extra.nl,Ziggo Sport Extra,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000233_000000/channelLogo?type=channel
 Ziggo.Sport.Totaal.nl,Ziggo Sport Totaal,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000236_000000/channelLogo?type=channel
-Ziggo.Sport.nl,Ziggo Sport,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000014_019661/channelLogo?type=channel
 Ziggo.TV.nl,Ziggo TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000013_019327/channelLogo?type=channel
 Zing.nl,Zing,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000154_020078/channelLogo?type=channel
 ducktv.nl,ducktv,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000215_020005/channelLogo?type=channel
