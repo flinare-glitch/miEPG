@@ -17,7 +17,7 @@ BabyTV.nl,BabyTV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/in
 Brazzers.TV.nl,Brazzers TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000226_019309/channelLogo?type=channel
 CNBC.Europe.nl,CNBC Europe,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000119_019481/channelLogo?type=channel
 CNN.nl,CNN,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000115_019447/channelLogo?type=channel
-Canal+.Action.nl,Canal+ Action,https://tvgidsassets.nl/v384/img/channels/120x120/498.png
+Canal+.Action.nl,Canal+ Action,https://tvgidsassets.nl/v385/img/channels/120x120/498.png
 Cartoon.Network.nl,Cartoon Network,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000088_019251/channelLogo?type=channel
 Cartoonito.nl,Cartoonito,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000090_019492/channelLogo?type=channel
 Colors.TV.nl,Colors TV,https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_200035_100000/channelLogo?type=channel
