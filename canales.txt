@@ -29,6 +29,8 @@ DE | Sky Sport Bundesliga 1,SkySport Bundesliga Alemania
 DE | sport1,SPORT 1 Alemania
 DE | sport1+,SPORT1+ Alemania
 DE | sportdigital,Sport Digital Fussball Alemania
+DAZN.1.de,DAZN.1.de
+DAZN.2.de,DAZN.2.de
 FR · beIN SPORTS 1,FR · beIN SPORTS 1
 FR · beIN SPORTS 2,FR · beIN SPORTS 2
 FR · beIN SPORTS 3,FR · beIN SPORTS 3
