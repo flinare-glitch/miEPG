@@ -1,106 +1,267 @@
-# Fuente: https://epgshare01.online/epgshare01/epg_ripper_LV1.xml.gz
-3+.HD.lv,3+ HD,https://api-prd.shortcut.lv/api/images/channel/2610647/logo/dark?width=80
-360.HD.lv,360 HD,https://api-prd.shortcut.lv/api/images/channel/2611442/logo/dark?width=80
-8TV.HD.lv,8TV HD,https://api-prd.shortcut.lv/api/images/channel/88689662/logo/dark?width=80
-A.TV.lv,A TV,https://api-prd.shortcut.lv/api/images/channel/2611707/logo/dark?width=80
-AMC.lv,AMC,https://api-prd.shortcut.lv/api/images/channel/2611460/logo/dark?width=80
-ARTE.HD.lv,ARTE HD,https://api-prd.shortcut.lv/api/images/channel/2611368/logo/dark?width=80
-Al.Jazeera.International.HD.lv,Al Jazeera International HD,https://api-prd.shortcut.lv/api/images/channel/2611179/logo/dark?width=80
-Animal.Planet.HD.lv,Animal Planet HD,https://api-prd.shortcut.lv/api/images/channel/2611390/logo/dark?width=80
-BBC.News.lv,BBC News,https://api-prd.shortcut.lv/api/images/channel/2611132/logo/dark?width=80
-Best4Sport.TV-2.HD.lv,Best4Sport TV-2 HD,https://api-prd.shortcut.lv/api/images/channel/2611864/logo/dark?width=80
-Best4Sport.TV.HD.lv,Best4Sport TV HD,https://api-prd.shortcut.lv/api/images/channel/2611426/logo/dark?width=80
-Bloomberg.lv,Bloomberg,https://api-prd.shortcut.lv/api/images/channel/2611168/logo/dark?width=80
-Bolt.HD.lv,Bolt HD,https://api-prd.shortcut.lv/api/images/channel/68374465/logo/dark?width=80
-CNN.International.lv,CNN International,https://api-prd.shortcut.lv/api/images/channel/58818917/logo/dark?width=80
-Cartoon.Network.HD.lv,Cartoon Network HD,https://api-prd.shortcut.lv/api/images/channel/220472712/logo/dark?width=80
-Cartoonito.lv,Cartoonito,https://api-prd.shortcut.lv/api/images/channel/298108525/logo/dark?width=80
-Current.Time.HD.lv,Current Time HD,https://api-prd.shortcut.lv/api/images/channel/2611660/logo/dark?width=80
-Deutsche.Welle.English.HD.lv,Deutsche Welle English HD,https://api-prd.shortcut.lv/api/images/channel/79009739/logo/dark?width=80
-Discovery.Channel.lv,Discovery Channel,https://api-prd.shortcut.lv/api/images/channel/2610835/logo/dark?width=80
-Disney.Channel.lv,Disney Channel,https://api-prd.shortcut.lv/api/images/channel/2610727/logo/dark?width=80
-Disney.Junior.lv,Disney Junior,https://api-prd.shortcut.lv/api/images/channel/2610749/logo/dark?width=80
-DocuBox.HD.lv,DocuBox HD,https://api-prd.shortcut.lv/api/images/channel/213159482/logo/dark?width=80
-Duck.TV.lv,Duck TV,https://api-prd.shortcut.lv/api/images/channel/2611714/logo/dark?width=80
-Duo.3.HD.lv,Duo 3 HD,https://api-prd.shortcut.lv/api/images/channel/2610706/logo/dark?width=80
-Duo.5.HD.lv,Duo 5 HD,https://api-prd.shortcut.lv/api/images/channel/269560208/logo/dark?width=80
-Duo.6.HD.lv,Duo 6 HD,https://api-prd.shortcut.lv/api/images/channel/2611329/logo/dark?width=80
-E!.Entertainment.HD.lv,E! Entertainment HD,https://api-prd.shortcut.lv/api/images/channel/216991478/logo/dark?width=80
-EWTN.Latvija.lv,EWTN Latvija,https://api-prd.shortcut.lv/api/images/channel/294115958/logo/dark?width=80
-Epic.Drama.HD.lv,Epic Drama HD,https://api-prd.shortcut.lv/api/images/channel/2611791/logo/dark?width=80
-Euronews.ENG.HD.lv,Euronews ENG HD,https://api-prd.shortcut.lv/api/images/channel/2611125/logo/dark?width=80
-Euronews.RU.lv,Euronews RU,https://api-prd.shortcut.lv/api/images/channel/2611730/logo/dark?width=80
-Eurosport.1.HD.lv,Eurosport 1 HD,https://api-prd.shortcut.lv/api/images/channel/2610796/logo/dark?width=80
-Eurosport.2.HD.lv,Eurosport 2 HD,https://api-prd.shortcut.lv/api/images/channel/2611435/logo/dark?width=80
-FIGHT.SPORTS.HD.lv,FIGHT SPORTS HD,https://api-prd.shortcut.lv/api/images/channel/2611698/logo/dark?width=80
-FREEДOM.HD.lv,FREEДOM HD,https://api-prd.shortcut.lv/api/images/channel/2611671/logo/dark?width=80
-FX.HD.lv,FX HD,https://api-prd.shortcut.lv/api/images/channel/2610684/logo/dark?width=80
-FX.Life.HD.lv,FX Life HD,https://api-prd.shortcut.lv/api/images/channel/2610691/logo/dark?width=80
-Fashion.&amp;.Style.HD.lv,Fashion &amp; Style HD,https://api-prd.shortcut.lv/api/images/channel/2611034/logo/dark?width=80
-FilmUADrama.HD.lv,FilmUADrama HD,https://api-prd.shortcut.lv/api/images/channel/80775617/logo/dark?width=80
-Filmzone.HD.lv,Filmzone HD,https://api-prd.shortcut.lv/api/images/channel/2611478/logo/dark?width=80
-Filmzone.Plus.HD.lv,Filmzone Plus HD,https://api-prd.shortcut.lv/api/images/channel/2611721/logo/dark?width=80
-France.24.HD.lv,France 24 HD,https://api-prd.shortcut.lv/api/images/channel/31718708/logo/dark?width=80
-Go3.Films.HD.lv,Go3 Films HD,https://api-prd.shortcut.lv/api/images/channel/2611240/logo/dark?width=80
-Go3.Sport.1.HD.lv,Go3 Sport 1 HD,https://api-prd.shortcut.lv/api/images/channel/2611212/logo/dark?width=80
-Go3.Sport.2.HD.lv,Go3 Sport 2 HD,https://api-prd.shortcut.lv/api/images/channel/5922455/logo/dark?width=80
-Go3.Sport.3.HD.lv,Go3 Sport 3 HD,https://api-prd.shortcut.lv/api/images/channel/2611771/logo/dark?width=80
-Go3.Sport.Open.HD.lv,Go3 Sport Open HD,https://api-prd.shortcut.lv/api/images/channel/201882094/logo/dark?width=80
-HGTV.HD.lv,HGTV HD,https://api-prd.shortcut.lv/api/images/channel/203607979/logo/dark?width=80
-History.HD.lv,History HD,
-Investigation.Discovery.lv,Investigation Discovery,https://api-prd.shortcut.lv/api/images/channel/2610872/logo/dark?width=80
-Jim.Jam.lv,Jim Jam,https://api-prd.shortcut.lv/api/images/channel/2610720/logo/dark?width=80
-Kanal.7.HD.lv,Kanal 7 HD,https://api-prd.shortcut.lv/api/images/channel/200535063/logo/dark?width=80
-Kidzone.Max.HD.lv,Kidzone Max HD,https://api-prd.shortcut.lv/api/images/channel/2611354/logo/dark?width=80
-Kidzone.Mini.HD.lv,Kidzone Mini HD,https://api-prd.shortcut.lv/api/images/channel/76431034/logo/dark?width=80
-LTV1.HD.lv,LTV1 HD,https://api-prd.shortcut.lv/api/images/channel/2610605/logo/dark?width=80
-LTV7.HD.lv,LTV7 HD,https://api-prd.shortcut.lv/api/images/channel/2610612/logo/dark?width=80
-Latvijas.Šlāgerkanāls.lv,Latvijas Šlāgerkanāls,https://api-prd.shortcut.lv/api/images/channel/2610953/logo/dark?width=80
-MTV.00s.lv,MTV 00s,https://api-prd.shortcut.lv/api/images/channel/2610946/logo/dark?width=80
-MTV.80s.lv,MTV 80s,https://api-prd.shortcut.lv/api/images/channel/2610983/logo/dark?width=80
-MTV.Global.lv,MTV Global,https://api-prd.shortcut.lv/api/images/channel/2610939/logo/dark?width=80
-MTV.Hits.lv,MTV Hits,https://api-prd.shortcut.lv/api/images/channel/2610994/logo/dark?width=80
-MTV.Live.HD.lv,MTV Live HD,https://api-prd.shortcut.lv/api/images/channel/2611296/logo/dark?width=80
-Mezzo.HD.lv,Mezzo HD,https://api-prd.shortcut.lv/api/images/channel/2611027/logo/dark?width=80
-Mūzikas.Video.Kanāls.lv,Mūzikas Video Kanāls,https://api-prd.shortcut.lv/api/images/channel/2610960/logo/dark?width=80
-Nat.Geo.Wild.HD.lv,Nat Geo Wild HD,https://api-prd.shortcut.lv/api/images/channel/2610888/logo/dark?width=80
-National.Geographic.HD.lv,National Geographic HD,https://api-prd.shortcut.lv/api/images/channel/2610910/logo/dark?width=80
-Nick.Jr.HD.lv,Nick Jr HD,https://api-prd.shortcut.lv/api/images/channel/2611531/logo/dark?width=80
-Nick.Toons.lv,Nick Toons,https://api-prd.shortcut.lv/api/images/channel/59088205/logo/dark?width=80
-Nickelodeon.lv,Nickelodeon,https://api-prd.shortcut.lv/api/images/channel/2610713/logo/dark?width=80
-OTV.HD.lv,OTV HD,https://api-prd.shortcut.lv/api/images/channel/234187073/logo/dark?width=80
-OstWest.lv,OstWest,https://api-prd.shortcut.lv/api/images/channel/81282071/logo/dark?width=80
-PRO.7.lv,PRO 7,https://api-prd.shortcut.lv/api/images/channel/2611146/logo/dark?width=80
-Prime.Fight.HD.lv,Prime Fight HD,https://api-prd.shortcut.lv/api/images/channel/302470025/logo/dark?width=80
-RADA.lv,RADA,https://api-prd.shortcut.lv/api/images/channel/225338140/logo/dark?width=80
-RTL.lv,RTL,https://api-prd.shortcut.lv/api/images/channel/2611139/logo/dark?width=80
-Radio.SWH.TV.lv,Radio SWH TV,https://api-prd.shortcut.lv/api/images/channel/294115254/logo/dark?width=80
-Re:TV.HD.lv,Re:TV HD,https://api-prd.shortcut.lv/api/images/channel/2611289/logo/dark?width=80
-SAT1.lv,SAT1,https://api-prd.shortcut.lv/api/images/channel/2611157/logo/dark?width=80
-STV.Pirmā!.HD.lv,STV Pirmā! HD,https://api-prd.shortcut.lv/api/images/channel/2611485/logo/dark?width=80
-Setanta.Sports.1.HD.lv,Setanta Sports 1 HD,https://api-prd.shortcut.lv/api/images/channel/2611616/logo/dark?width=80
-Setanta.Sports.2.HD.lv,Setanta Sports 2 HD,https://api-prd.shortcut.lv/api/images/channel/266661955/logo/dark?width=80
-Smartzone.HD.lv,Smartzone HD,https://api-prd.shortcut.lv/api/images/channel/2611848/logo/dark?width=80
-Star.Cinema.HD.lv,Star Cinema HD,https://api-prd.shortcut.lv/api/images/channel/6476855/logo/dark?width=80
-Star.Family.HD.lv,Star Family HD,https://api-prd.shortcut.lv/api/images/channel/6476773/logo/dark?width=80
-Super+.HD.lv,Super+ HD,https://api-prd.shortcut.lv/api/images/channel/232442934/logo/dark?width=80
-Super.Baltic.HD.lv,Super Baltic HD,https://api-prd.shortcut.lv/api/images/channel/232442924/logo/dark?width=80
-TLC.lv,TLC,https://api-prd.shortcut.lv/api/images/channel/2610865/logo/dark?width=80
-TV.Extra.lv,TV Extra,https://api-prd.shortcut.lv/api/images/channel/219896415/logo/dark?width=80
-TV.Jūrmala.lv,TV Jūrmala,https://api-prd.shortcut.lv/api/images/channel/262746582/logo/dark?width=80
-TV24.HD.lv,TV24 HD,https://api-prd.shortcut.lv/api/images/channel/2611375/logo/dark?width=80
-TV3.HD.lv,TV3 HD,https://api-prd.shortcut.lv/api/images/channel/2610620/logo/dark?width=80
-TV3.Life.HD.lv,TV3 Life HD,https://api-prd.shortcut.lv/api/images/channel/2610629/logo/dark?width=80
-TV3.Mini.HD.lv,TV3 Mini HD,https://api-prd.shortcut.lv/api/images/channel/2610974/logo/dark?width=80
-TV4.HD.lv,TV4 HD,https://api-prd.shortcut.lv/api/images/channel/83767041/logo/dark?width=80
-TV6.HD.lv,TV6 HD,https://api-prd.shortcut.lv/api/images/channel/2610638/logo/dark?width=80
-TVP.Polonia.HD.lv,TVP Polonia HD,https://api-prd.shortcut.lv/api/images/channel/256038277/logo/dark?width=80
-TravelXP.HD.lv,TravelXP HD,https://api-prd.shortcut.lv/api/images/channel/277655929/logo/dark?width=80
-Viasat.Explore.HD.lv,Viasat Explore HD,https://api-prd.shortcut.lv/api/images/channel/213392681/logo/dark?width=80
-Viasat.History.HD.lv,Viasat History HD,https://api-prd.shortcut.lv/api/images/channel/213391596/logo/dark?width=80
-Viasat.Kino.Action.lv,Viasat Kino Action,https://api-prd.shortcut.lv/api/images/channel/2611226/logo/dark?width=80
-Viasat.Kino.Comedy.HD.lv,Viasat Kino Comedy HD,https://api-prd.shortcut.lv/api/images/channel/2611219/logo/dark?width=80
-Viasat.Kino.World.lv,Viasat Kino World,https://api-prd.shortcut.lv/api/images/channel/2611233/logo/dark?width=80
-Viasat.Kino.lv,Viasat Kino,
-Viasat.Nature.HD.lv,Viasat Nature HD,https://api-prd.shortcut.lv/api/images/channel/59679023/logo/dark?width=80
-Vidusdaugavas.televīzija.lv,Vidusdaugavas televīzija,https://api-prd.shortcut.lv/api/images/channel/258700720/logo/dark?width=80
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz
+Das.Erste.de,Das Erste,
+ZDF.de,ZDF,
+RTL.de,RTL,
+SAT.1.de,SAT.1,
+ProSieben.de,ProSieben,
+kabel.eins.de,kabel eins,
+RTLZWEI.de,RTLZWEI,
+VOX.de,VOX,
+3sat.de,3sat,
+ARTE.de,ARTE,
+DF1.de,DF1,
+Dokusat.de,Dokusat,
+Servus.TV.Österreich.de,Servus TV Österreich,
+Tele.5.de,Tele 5,
+DMAX.de,DMAX,
+sixx.de,sixx,
+NITRO.de,NITRO,
+RTLup.de,RTLup,
+SAT.1.Gold.de,SAT.1 Gold,
+ProSieben.MAXX.de,ProSieben MAXX,
+Comedy.Central.de,Comedy Central,
+WDR.de,WDR,
+NDR.de,NDR,
+BR.de,BR,
+SWR/SR.de,SWR/SR,
+HR.de,HR,
+MDR.de,MDR,
+RBB.de,RBB,
+SPORT1.de,SPORT1,
+SPORT1+.de,SPORT1+,
+SportDigital1+.de,SportDigital1+,
+eSports1.de,eSports1,
+eSportsONE.de,eSportsONE,
+Eurosport.1.de,Eurosport 1,
+Eurosport.2.de,Eurosport 2,
+EXTREME.SPORTS.de,EXTREME SPORTS,
+sportdigital.Fussball.de,sportdigital Fussball,
+DAZN.de,DAZN,
+Auto.Motor.Sport.de,Auto Motor Sport,
+KIKA.de,KIKA,
+SUPER.RTL.de,SUPER RTL,
+TOGGO.plus.de,TOGGO plus,
+RiC.de,RiC,
+nick.de,nick,
+Fix.&amp;.Foxi.de,Fix &amp; Foxi,
+Nick.Jr..de,Nick Jr.,
+Nicktoons.de,Nicktoons,
+Disney.Channel.de,Disney Channel,
+PHOENIX.de,PHOENIX,
+ARD.alpha.de,ARD alpha,
+ONE.de,ONE,
+ZDFneo.de,ZDFneo,
+ZDFinfo.de,ZDFinfo,
+ANIXE.de,ANIXE,
+Bibel.TV.de,Bibel TV,
+K-TV.de,K-TV,
+TLC.de,TLC,
+Welt.der.Wunder.TV.de,Welt der Wunder TV,
+More.than.Sports.TV.de,More than Sports TV,
+Bon.Gusto.de,Bon Gusto,
+Goldstar.TV.de,Goldstar TV,
+Home.&amp;.Garden.TV.de,Home &amp; Garden TV,
+Marco.Polo.TV.de,Marco Polo TV,
+travelxp.4K.de,travelxp 4K,
+Rocket.Beans.TV.de,Rocket Beans TV,
+UHD1.de,UHD1,
+VOXup.de,VOXup,
+tagesschau24.de,tagesschau24,
+ntv.de,ntv,
+WELT.de,WELT,
+N24.DOKU.de,N24 DOKU,
+kabel.eins.Doku.de,kabel eins Doku,
+Prime.HD.de,Prime HD,
+BBC.World.News.de,BBC World News,
+BBC.News.de,BBC News,
+Bloomberg.Europe.TV.de,Bloomberg Europe TV,
+CNBC.de,CNBC,
+CNN.International.de,CNN International,
+CNN.Türk.de,CNN Türk,
+euronews.(ger).de,euronews (ger),
+Al.Jazeera.de,Al Jazeera,
+France.24.(engl.).de,France 24 (engl.),
+France.24.(franz.).de,France 24 (franz.),
+NHK.World.TV.de,NHK World TV,
+DELUXE.MUSIC.de,DELUXE MUSIC,
+DMF.de,DMF,
+MTV.de,MTV,
+MTV.Live.HD.de,MTV Live HD,
+MTV.80s.de,MTV 80s,
+QVC.de,QVC,
+QVC2.de,QVC2,
+HSE.de,HSE,
+HSE.Extra.de,HSE Extra,
+Channel21.de,Channel21,
+123.tv.de,123.tv,
+Sonnenklar.TV.de,Sonnenklar.TV,
+Hamburg.1.de,Hamburg 1,
+münchen.tv.de,münchen.tv,
+tv.berlin.de,tv.berlin,
+LEIPZIG.FERNSEHEN.de,LEIPZIG FERNSEHEN,
+Rhein-Neckar.Fernsehen.de,Rhein-Neckar Fernsehen,
+ATV.de,ATV,
+ATV.II.de,ATV II,
+BBC.One.de,BBC One,
+BBC.Two.de,BBC Two,
+BBC.four.de,BBC four,
+Canal+.de,Canal+,
+Canal+.Cinéma.de,Canal+ Cinéma,
+Canal+.Sport.de,Canal+ Sport,
+Canale.5.de,Canale 5,
+ORF.1.de,ORF 1,
+ORF.2.de,ORF 2,
+ORF.III.de,ORF III,
+ORF.SPORT.+.de,ORF SPORT +,
+oe24.TV.de,oe24.TV,
+PULS.4.de,PULS 4,
+SRF.1.de,SRF 1,
+SRF.zwei.de,SRF zwei,
+3+.de,3+,
+PULS.acht.de,PULS acht,
+STAR.TV.de,STAR TV,
+DR1.de,DR1,
+DR2.de,DR2,
+Belgien.1.de,Belgien 1,
+TV2.de,TV2,
+TV5.Monde.de,TV5 Monde,
+Show.Turk.de,Show Turk,
+Turkmax.Gurme.de,Turkmax Gurme,
+Kanal.7.Int.de,Kanal 7 Int,
+Euro.D.de,Euro D,
+Euro.Star.de,Euro Star,
+France.2.de,France 2,
+France.3.de,France 3,
+France.4.de,France 4,
+France.5.de,France 5,
+Sky.Cinema.Premiere.HD.de,Sky Cinema Premiere HD,
+Sky.Cinema.Family.HD.de,Sky Cinema Family HD,
+Sky.Cinema.Highlights.HD.de,Sky Cinema Highlights HD,
+Sky.Cinema.Action.HD.de,Sky Cinema Action HD,
+Sky.Cinema.Classics.HD.de,Sky Cinema Classics HD,
+Sky.Crime.de,Sky Crime,
+Sky.Documentaries.de,Sky Documentaries,
+Sky.Nature.de,Sky Nature,
+Warner.TV.Film.de,Warner TV Film,
+KinoweltTV.de,KinoweltTV,
+Sky.Sport.Bundesliga.de,Sky Sport Bundesliga,
+Sky.Sport.News.de,Sky Sport News,
+Sky.Sport.F1.de,Sky Sport F1,
+Sky.Sport.Premier.League.de,Sky Sport Premier League,
+Sky.Sport.Golf.de,Sky Sport Golf,
+Sky.Sport.Mix.de,Sky Sport Mix,
+Sky.Sport.Tennis.de,Sky Sport Tennis,
+Sky.Sport.Top.Event.de,Sky Sport Top Event,
+Sky.Sport.Austria.de,Sky Sport Austria,
+Sky.One.de,Sky One,
+Sky.Atlantic.HD.de,Sky Atlantic HD,
+Sky.Krimi.de,Sky Krimi,
+sky.replay.de,sky replay,
+sky.showcase.de,sky showcase,
+Universal.Channel.HD.de,Universal Channel HD,
+The.HISTORY.Channel.de,The HISTORY Channel,
+Spiegel.Geschichte.de,Spiegel Geschichte,
+Motorvision.TV.de,Motorvision TV,
+Discovery.HD.de,Discovery HD,
+Nat.Geo.HD.de,Nat Geo HD,
+NAT.GEO.WILD.de,NAT GEO WILD,
+13th.Street.Universal.de,13th Street Universal,
+SyFy.de,SyFy,
+Warner.TV.Serie.de,Warner TV Serie,
+Warner.TV.Comedy.de,Warner TV Comedy,
+CRIME.+.INVESTIGATION.de,CRIME + INVESTIGATION,
+Romance.TV.de,Romance TV,
+Heimatkanal.de,Heimatkanal,
+Cartoon.Network.de,Cartoon Network,
+Classica.de,Classica,
+Beate-Uhse.TV.de,Beate-Uhse.TV,
+Adult.Channel.de,Adult Channel,
+Animal.Planet.de,Animal Planet,
+AXN.Black.de,AXN Black,
+Bergblick.de,Bergblick,
+Fashion.TV.de,Fashion TV,
+GEO.Television.de,GEO Television,
+Gute.Laune.TV.de,Gute Laune TV,
+Jukebox.de,Jukebox,
+LUST.PUR.de,LUST PUR,
+Mezzo.de,Mezzo,
+MTV.Base.de,MTV Base,
+Club.MTV.de,Club MTV,
+MTV.Hits.de,MTV Hits,
+MTV.Brand.New.de,MTV Brand New,
+Nautical.Channel.de,Nautical Channel,
+Playboy.TV.de,Playboy TV,
+kabel.eins.classics.de,kabel eins classics,
+SAT.1.emotions.de,SAT.1 emotions,
+ProSieben.Fun.de,ProSieben Fun,
+NOW.US.de,NOW US,
+RTL.Crime.de,RTL Crime,
+RTL.Living.de,RTL Living,
+RTL.Passion.de,RTL Passion,
+Silverline.de,Silverline,
+AXN.White.de,AXN White,
+Curiosity.Channel.de,Curiosity Channel,
+Trace.TV.de,Trace TV,
+Cartoonito.de,Cartoonito,http://dtil.tmsimg.com/assets/s83741_ll_h15_ab.png?w=360&amp;h=270
+DAZN.1.de,DAZN 1,https://sender.epglogos.de/svg/12188.svg
+DAZN.2.de,DAZN 2,https://sender.epglogos.de/svg/12189.svg
+Motorvision+.de,Motorvision+,http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png
+Sky.Replay.HD.de,Sky Replay HD,http://dtil.tmsimg.com/assets/s111212_ll_h15_ab.png?w=360&amp;h=270
+Sky.Showcase.HD.de,Sky Showcase HD,http://dtil.tmsimg.com/assets/s125325_ll_h15_aa.png?w=360&amp;h=270
+Sky.Sport.UHD.de,Sky Sport UHD,http://dtil.tmsimg.com/assets/GNLZZGG003GCLC9.png?w=360&amp;h=270
+Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1 HD,http://dtil.tmsimg.com/assets/GNLZZGG003FCKJR.png?w=360&amp;h=270
+Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2 HD,http://dtil.tmsimg.com/assets/s111209_ll_h15_ab.png?w=360&amp;h=270
+Sky.Sport.Austria.3.HD.de,Sky Sport Austria 3 HD,http://dtil.tmsimg.com/assets/s111210_ll_h15_ab.png?w=360&amp;h=270
+Sky.Sport.Austria.4.HD.de,Sky Sport Austria 4 HD,http://dtil.tmsimg.com/assets/s111211_ll_h15_ab.png?w=360&amp;h=270
+Sky.Sport.Austria.5.HD.de,Sky Sport Austria 5 HD,http://dtil.tmsimg.com/assets/GNLZZGG003FCQ7M.png?w=360&amp;h=270
+Sky.Sport.Austria.6.HD.de,Sky Sport Austria 6 HD,http://dtil.tmsimg.com/assets/GNLZZGG003FCQ84.png?w=360&amp;h=270
+Sky.Sport.Austria.7.HD.de,Sky Sport Austria 7 HD,http://dtil.tmsimg.com/assets/GNLZZGG003FCQ9J.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.UHD.de,Sky Sport Bundesliga UHD,http://dtil.tmsimg.com/assets/GNLZZGG003FD0FG.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.1.de,Sky Sport Bundesliga 1,http://dtil.tmsimg.com/assets/GNLZZGG003FCYLV.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.2.de,Sky Sport Bundesliga 2,http://dtil.tmsimg.com/assets/GNLZZGG003FCYQ7.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.3.de,Sky Sport Bundesliga 3,http://dtil.tmsimg.com/assets/GNLZZGG003FD0CB.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.4.de,Sky Sport Bundesliga 4,http://dtil.tmsimg.com/assets/GNLZZGG003FD0CP.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.5.de,Sky Sport Bundesliga 5,http://dtil.tmsimg.com/assets/GNLZZGG003FD0CE.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.6.de,Sky Sport Bundesliga 6,http://dtil.tmsimg.com/assets/GNLZZGG003FD0D3.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.7.de,Sky Sport Bundesliga 7,http://dtil.tmsimg.com/assets/GNLZZGG003FD0DH.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.8.de,Sky Sport Bundesliga 8,http://dtil.tmsimg.com/assets/GNLZZGG003FD0DV.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.9.de,Sky Sport Bundesliga 9,http://dtil.tmsimg.com/assets/GNLZZGG003FD0F1.png?w=360&amp;h=270
+Sky.Sport.Bundesliga.10.de,Sky Sport Bundesliga 10,http://dtil.tmsimg.com/assets/GNLZZGG003FCYLQ.png?w=360&amp;h=270
+Sky.Sport.1.de,Sky Sport 1,http://dtil.tmsimg.com/assets/GNLZZGG003FBQVR.png?w=360&amp;h=270
+Sky.Sport.2.de,Sky Sport 2,http://dtil.tmsimg.com/assets/GNLZZGG003FBEKP.png?w=360&amp;h=270
+Sky.Sport.3.de,Sky Sport 3,http://dtil.tmsimg.com/assets/GNLZZGG003FC2FX.png?w=360&amp;h=270
+Sky.Sport.4.de,Sky Sport 4,http://dtil.tmsimg.com/assets/GNLZZGG003FCHBQ.png?w=360&amp;h=270
+Sky.Sport.5.de,Sky Sport 5,http://dtil.tmsimg.com/assets/GNLZZGG003FCHE8.png?w=360&amp;h=270
+Sky.Sport.6.de,Sky Sport 6,http://dtil.tmsimg.com/assets/GNLZZGG003FCJQK.png?w=360&amp;h=270
+Sky.Sport.7.de,Sky Sport 7,http://dtil.tmsimg.com/assets/GNLZZGG003FCNL7.png?w=360&amp;h=270
+Sky.Sport.8.de,Sky Sport 8,http://dtil.tmsimg.com/assets/GNLZZGG003FCPZ9.png?w=360&amp;h=270
+Sky.Sport.9.de,Sky Sport 9,http://dtil.tmsimg.com/assets/GNLZZGG003FCV4Z.png?w=360&amp;h=270
+Sky.Sport.10.de,Sky Sport 10,http://dtil.tmsimg.com/assets/GNLZZGG003FBYXT.png?w=360&amp;h=270
+eoTV.de,eoTV,
+FUSSBALL.TV.1.de,FUSSBALL.TV 1,http://ngiss.t-online.de/cm1s/media/51e9858925ffe8fb6e5df889436a3d07be4b7ac7.png
+FUSSBALL.TV.2.de,FUSSBALL.TV 2,http://ngiss.t-online.de/cm1s/media/56c747d4ff3b94929a766910b6742e0cb44b5ccf.png
+FUSSBALL.TV.3.de,FUSSBALL.TV 3,http://ngiss.t-online.de/cm1s/media/d2748256549f804164f6c95a2c6116e62f344d19.png
+DOKUSAT.de,DOKUSAT,https://cfres-71f3.kxcdn.com/ci/m/pngs/dokusat-medium.png
+Top.Serien.de,Top Serien,http://dtil.tmsimg.com/assets/s120496_ll_h9_ab.png?w=360&amp;h=270
+tv-media.PULS.24.de,PULS 24,
+DFB.Play.de,DFB Play,https://www.dfbplay.tv/images/app-logo-contrast.svg
+Prime.de,Prime,
+Sport.1.-.myTeamTV.de,Sport 1 - myTeamTV,http://dtil.tmsimg.com/assets/s102885_ll_h15_ac.png?w=360&amp;h=270
+Sport.2.-.myTeamTV.de,Sport 2 - myTeamTV,http://dtil.tmsimg.com/assets/s102886_ll_h15_ac.png?w=360&amp;h=270
+Sport.3.-.myTeamTV.de,Sport 3 - myTeamTV,http://dtil.tmsimg.com/assets/s102887_ll_h15_ac.png?w=360&amp;h=270
+Sport.4.-.myTeamTV.de,Sport 4 - myTeamTV,http://dtil.tmsimg.com/assets/s102888_ll_h15_ac.png?w=360&amp;h=270
+Sport.5.-.myTeamTV.de,Sport 5 - myTeamTV,http://dtil.tmsimg.com/assets/s102889_ll_h15_ac.png?w=360&amp;h=270
+Sport.6.-.myTeamTV.de,Sport 6 - myTeamTV,http://dtil.tmsimg.com/assets/s102890_ll_h15_ac.png?w=360&amp;h=270
+Sport.7.-.myTeamTV.de,Sport 7 - myTeamTV,http://dtil.tmsimg.com/assets/s102891_ll_h15_ac.png?w=360&amp;h=270
+Sport.8.-.myTeamTV.de,Sport 8 - myTeamTV,http://dtil.tmsimg.com/assets/s104797_ll_h15_ac.png?w=360&amp;h=270
+Sport.9.-.myTeamTV.de,Sport 9 - myTeamTV,http://dtil.tmsimg.com/assets/s104798_ll_h15_ac.png?w=360&amp;h=270
+Sport.10.-.myTeamTV.de,Sport 10 - myTeamTV,http://dtil.tmsimg.com/assets/s104799_ll_h15_ac.png?w=360&amp;h=270
+Sport.11.-.myTeamTV.de,Sport 11 - myTeamTV,http://dtil.tmsimg.com/assets/s104800_ll_h15_ac.png?w=360&amp;h=270
+Sport.12.-.myTeamTV.de,Sport 12 - myTeamTV,http://dtil.tmsimg.com/assets/s104801_ll_h15_ac.png?w=360&amp;h=270
+Sport.13.-.myTeamTV.de,Sport 13 - myTeamTV,http://dtil.tmsimg.com/assets/s104802_ll_h15_ac.png?w=360&amp;h=270
+Sport.14.-.myTeamTV.de,Sport 14 - myTeamTV,http://dtil.tmsimg.com/assets/s104803_ll_h15_ac.png?w=360&amp;h=270
+Sport.15.-.myTeamTV.de,Sport 15 - myTeamTV,http://dtil.tmsimg.com/assets/s100576_ll_h15_ac.png?w=360&amp;h=270
+Sport.16.-.myTeamTV.de,Sport 16 - myTeamTV,http://dtil.tmsimg.com/assets/s100577_ll_h15_ac.png?w=360&amp;h=270
+Sport.17.-.myTeamTV.de,Sport 17 - myTeamTV,http://dtil.tmsimg.com/assets/s100581_ll_h15_ac.png?w=360&amp;h=270
+Sport.18.-.myTeamTV.de,Sport 18 - myTeamTV,http://dtil.tmsimg.com/assets/s100582_ll_h15_ac.png?w=360&amp;h=270
+MS.Sport.de,MS Sport,http://dtil.tmsimg.com/assets/s111692_ll_h15_ac.png?w=360&amp;h=270
