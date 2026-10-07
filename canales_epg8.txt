@@ -56,6 +56,7 @@ CABC5200019FS,Degrassi,https://tvpnlogopus.samsungcloud.tv/platform/image/source
 CABC23000189A,Cops,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000189A_20260421T140552SQUARE.png
 CAAJ27000079E,FilmRise True Crime,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000079E_20260421T140937SQUARE.png
 CABD1200007HY,True Crime Now,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200007HY_20260421T140646SQUARE.png
+CA26000068X,Silent Witness &amp; New Tricks,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA26000068X_20261006T050938SQUARE.png
 CA4700015P1,Crime 360,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700015P1_20260915T034550SQUARE.png
 CABB2600009WE,Dr. G: Medical Examiner,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600009WE_20260421T140509SQUARE.png
 CA4700017S7,The First 48,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700017S7_20260727T081710SQUARE.png
@@ -234,7 +235,7 @@ CABD12000247O,batteryPOP,https://tvpnlogopus.samsungcloud.tv/platform/image/sour
 CABD1200038NZ,XITE Hits,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20260915T034646SQUARE.png
 CABB2600018T4,XITE 90s Throwback,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20260512T070154SQUARE.png
 CABB2600017ZU,XITE 80s Flashback,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20260512T070144SQUARE.png
-CABD17000043J,XITE Summer,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261006T050933SQUARE.png
+CABD17000043J,XITE The Beatles,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261006T050933SQUARE.png
 CABD120001993,XITE Country Today,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD120001993_20260421T141129SQUARE.png
 CABD1200023UJ,XITE Classic Country,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200023UJ_20260421T141135SQUARE.png
 CA460001636,XITE Christian Hits,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA460001636_20260421T141250SQUARE.png
