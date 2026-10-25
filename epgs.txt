@@ -9,3 +9,4 @@ https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/es.xml.gz
 https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/es.xml.gz
 https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz
 https://www.tdtchannels.com/epg/TV.xml.gz
+https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
