@@ -99,6 +99,7 @@
 693bf37b75432d022c85ef01,Stargate,https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png
 6850335b5965a2fd49f7e36d,Andromeda,https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png
 62bdad934d73d50007a82472,Doctor Who Classic,https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png
+6874ad743ffa5e0c917f6e20,The Outer Limits,https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png
 62e94ec74823db0007277a8f,One Piece,https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png
 68d25b620a0f3829b116bb6f,Pluto TV Anime,https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png
 68b9afd66985e192657a2b7f,APTN Beyond,https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png
@@ -115,7 +116,6 @@
 62bdaf3470f09a000714a2f6,Degrassi,https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png
 62fb9ade112ca70007d8441d,Nonstop Drama,https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png
 62e922f6675f71000736db3b,Doc Martin,https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png
-6874ad743ffa5e0c917f6e20,The Outer Limits,https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png
 691b012d1148fa1cd8a75d5c,Hardcore Pawn,https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/colorLogoPNG_1776452409517.png
 6408ae8f9b39550008caf94f,American Pickers,https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png
 655f2ee6c0fc88000877d26c,Bar Rescue,https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png
