@@ -1,7 +1,9 @@
 # Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
 6ad7c302365deb3f0242d25b,Sabrina the Teenage Witch,https://images.pluto.tv/channels/6ad7c302365deb3f0242d25b/colorLogoPNG_1792525168637.png
-6abab1c8d33c7e25d227502e,Pluto TV Fantastic,https://images.pluto.tv/channels/6abab1c8d33c7e25d227502e/colorLogoPNG_1790624099120.png
-6abab32a198ce62db3f7e54d,TV Land Sitcoms,https://images.pluto.tv/channels/6abab32a198ce62db3f7e54d/colorLogoPNG_1790624268181.png
+6ad9003ec7dcaeb9825ded70,The First 48,https://images.pluto.tv/channels/6ad9003ec7dcaeb9825ded70/colorLogoPNG_1793196362033.png
+6ad9015156079f3c4aa1df01,Crime 360,https://images.pluto.tv/channels/6ad9015156079f3c4aa1df01/colorLogoPNG_1793039754317.png
+6ad902aca56abdc1eb746638,UnXplained Zone,https://images.pluto.tv/channels/6ad902aca56abdc1eb746638/colorLogoPNG_1793041083199.png
+6ad9030e9cc13e30e3011217,Deal Zone,https://images.pluto.tv/channels/6ad9030e9cc13e30e3011217/colorLogoPNG_1793196289560.png
 62ea41f42db3220007db97a6,Pluto TV Christmas,https://images.pluto.tv/channels/62ea41f42db3220007db97a6/colorLogoPNG_1750758085182.png
 62fb6d4308f5ec0007453c09,Christmas 365,https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png
 6729d651c7626f0008b5dacf,Hearties Christmas 2026,https://images.pluto.tv/channels/6729d651c7626f0008b5dacf/colorLogoPNG_1793357896689.png
@@ -24,6 +26,7 @@
 62e92178946c8000079a3160,Pluto TV Comedy,https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png
 6a315581df0b6d462c18397e,Pluto TV 90s Hit Comedy,https://images.pluto.tv/channels/6a315581df0b6d462c18397e/colorLogoPNG_1783520464793.png
 6a71f490f5f14c2045cd6118,Pluto TV TGIF Comedy,https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png
+6abab32a198ce62db3f7e54d,TV Land Sitcoms,https://images.pluto.tv/channels/6abab32a198ce62db3f7e54d/colorLogoPNG_1790624268181.png
 62f4f414c2ba130007f8b24e,King of Queens,https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png
 62f4f90e39183b000769f12b,Frasier,https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png
 62bdb7f0db2eb30007376d4d,Cheers,https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png
@@ -95,6 +98,7 @@
 6601948129adfd0008a1c0ba,Crime &amp; Justice,https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png
 6703a96763292d000836b4fa,Crime Up Close,https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png
 691b023a7613e09a8b209539,The X-Files,https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png
+6abab1c8d33c7e25d227502e,Pluto TV Fantastic,https://images.pluto.tv/channels/6abab1c8d33c7e25d227502e/colorLogoPNG_1790624099120.png
 66166cb1307fa30008f275e7,Pluto TV Sci-fi,https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png
 693bf37b75432d022c85ef01,Stargate,https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png
 6850335b5965a2fd49f7e36d,Andromeda,https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png
