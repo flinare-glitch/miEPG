@@ -1,5 +1,8 @@
 # Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
-6ad7c302365deb3f0242d25b,Sabrina the Teenage Witch,https://images.pluto.tv/channels/6ad7c302365deb3f0242d25b/colorLogoPNG_1792525168637.png
+6ae9d288aae217e85689f5e1,Third Watch,https://images.pluto.tv/channels/6ae9d288aae217e85689f5e1/colorLogoPNG_1793728985512.png
+6ae9d256d2ae5a36b3d3103d,Nip/Tuck,https://images.pluto.tv/channels/6ae9d256d2ae5a36b3d3103d/colorLogoPNG_1793728817640.png
+6ae9d1faa0c7adad77acf7e4,Nikita,https://images.pluto.tv/channels/6ae9d1faa0c7adad77acf7e4/colorLogoPNG_1793728726459.png
+6ae9d26e426c6f08411649d3,The FBI,https://images.pluto.tv/channels/6ae9d26e426c6f08411649d3/colorLogoPNG_1793728905372.png
 6ad9003ec7dcaeb9825ded70,The First 48,https://images.pluto.tv/channels/6ad9003ec7dcaeb9825ded70/colorLogoPNG_1793196362033.png
 6ad9015156079f3c4aa1df01,Crime 360,https://images.pluto.tv/channels/6ad9015156079f3c4aa1df01/colorLogoPNG_1793039754317.png
 6ad902aca56abdc1eb746638,UnXplained Zone,https://images.pluto.tv/channels/6ad902aca56abdc1eb746638/colorLogoPNG_1793041083199.png
@@ -26,6 +29,7 @@
 62e92178946c8000079a3160,Pluto TV Comedy,https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png
 6a315581df0b6d462c18397e,Pluto TV 90s Hit Comedy,https://images.pluto.tv/channels/6a315581df0b6d462c18397e/colorLogoPNG_1783520464793.png
 6a71f490f5f14c2045cd6118,Pluto TV TGIF Comedy,https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png
+6ad7c302365deb3f0242d25b,Sabrina the Teenage Witch,https://images.pluto.tv/channels/6ad7c302365deb3f0242d25b/colorLogoPNG_1792525168637.png
 6abab32a198ce62db3f7e54d,TV Land Sitcoms,https://images.pluto.tv/channels/6abab32a198ce62db3f7e54d/colorLogoPNG_1790624268181.png
 62f4f414c2ba130007f8b24e,King of Queens,https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png
 62f4f90e39183b000769f12b,Frasier,https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png
